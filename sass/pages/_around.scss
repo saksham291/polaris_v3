@@ -1,0 +1,75 @@
+.around, .transportation, .restaurants, .entertainment, .stores {
+
+    &__text {
+        text-align: justify;
+        font-size: $font-size-primary;
+        word-spacing: 3px;
+        font-weight: 300;
+    }
+
+}
+
+.restaurants {
+    &__box {
+        margin: 2rem auto;
+        width: 80%;
+    }
+
+    &__description {
+        text-align: justify;
+        font-size: $font-size-primary;
+        word-spacing: 3px;
+        font-weight: 300;
+    }
+
+    .street {
+        text-align: justify;
+        font-size: $font-size-primary;
+        word-spacing: 3px;
+        font-weight: 300;
+    }
+}
+
+.stores {
+
+    &__list {
+        margin: 2rem 0;
+        list-style: none;
+    }
+
+    &__item {
+        font-size: $font-size-primary;
+        font-weight: 300;
+    }
+
+    i {
+        color: $color-primary-light;
+    }
+
+    &__jumbo-list {
+        width: 60%;
+        margin: 0 auto;
+
+        @include respond(phone) {
+            width: 80%;
+        }
+    }
+}
+
+.bank {
+
+    &__list {
+        width: 80%;
+        margin: 2rem auto;
+        list-style: none;
+    }
+
+    &__item {
+        font-size: $font-size-primary;
+        font-weight: 300;
+    }
+
+    i {
+        color: $color-primary-light;
+    }
+}

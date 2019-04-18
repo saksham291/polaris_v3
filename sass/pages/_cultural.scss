@@ -1,0 +1,21 @@
+.clubs, .cultural {
+    &__text {
+        text-align: justify;
+        font-size: $font-size-primary;
+        word-spacing: 3px;
+        font-weight: 300;
+    }
+
+    span {
+        font-weight: 700;
+    }
+}
+
+.cultural {
+    width: 90%;
+    margin: 7rem auto;
+
+    &__photo {
+        width: 100%;
+    }
+}

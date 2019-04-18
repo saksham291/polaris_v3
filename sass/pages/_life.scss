@@ -1,0 +1,21 @@
+.about, .location, .facilities, .network, .mess, .medical, .transportation {
+    &__text {
+        text-align: justify;
+        font-size: $font-size-primary;
+        word-spacing: 3px;
+        font-weight: 300;
+    }
+
+    span {
+        font-weight: 900;
+    }
+
+    &__photo {
+        width: 100%;
+    }
+}
+
+.facilities {
+    width: 90%;
+    margin: 2rem auto;
+}

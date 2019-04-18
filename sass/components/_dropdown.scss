@@ -1,0 +1,69 @@
+.dropdown {
+
+
+    &-content {
+        display: none;
+        position: absolute;
+        background-color: $color-primary;
+        min-width: 16rem;
+        z-index: 1;
+        transition: all .2s;
+    }
+
+    &-link:link,
+    &-link:visited {
+        color: $color-white;
+        text-decoration: none;
+        padding: 1.2rem 1.5rem;
+        display: block;
+    }
+
+    &-link:hover,
+    &-link:active {
+        background-color: $color-primary-light;
+    }
+
+    &-btn {
+        background-color: transparent;
+        color: $color-white;
+        font-family: 'Lato', sans-serif;
+        font-size: 1.5rem;
+        border: none;
+        transition: all .2s;
+    }
+
+    &:hover &-content,
+    &:active &-content {
+        display: block;
+    }
+
+    &:hover &-btn {
+        color: $color-primary-dark;
+        cursor: pointer;
+    }
+
+    @include respond(tab-port) {
+        
+        transition: all .2s;
+
+        padding: 1.2rem 1.5rem; 
+
+        &-content {
+            position: absolute;
+            top: 39rem;
+            left: 0;
+            min-width: 100%;
+        }
+
+        &:hover,
+        &:active {
+            background-color: $color-primary-light;
+            cursor: pointer;
+        }
+
+        &:hover &-btn {
+            background-color: transparent;
+        }
+    }
+
+}

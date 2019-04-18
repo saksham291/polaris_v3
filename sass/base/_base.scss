@@ -1,0 +1,45 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+
+    @include respond(tab-port) {
+        font-size: 50%;
+    }
+
+}
+
+body {    
+    box-sizing: border-box;
+}
+
+.line-break {
+    background-color: #777;
+    height: 1px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.section {
+    margin: 7rem 0;
+    opacity: 0;
+
+    &--show {
+        opacity: 1;
+    }
+}
+
+.container {
+    max-width: $grid-width;
+    margin: 0 auto;
+
+    @include respond(tab-land) {
+        margin: 0 $margin-respond;
+    }
+}

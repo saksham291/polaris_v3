@@ -1,0 +1,26 @@
+.table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 2rem auto;
+
+    @include respond(phone) {
+        &__scroll {
+            overflow-x: scroll;
+            overflow-y: hidden;
+        }
+    }
+
+    th, td {
+        border: 1px solid $color-grey-dark;
+        padding: 1rem;
+        font-size: $font-size-primary;
+        word-spacing: 3px;
+        font-weight: 300;   
+    }
+
+    th {
+        text-align: left;
+        background-color: $color-primary;
+        color: $color-white;
+    }
+}

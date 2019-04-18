@@ -1,0 +1,16 @@
+.intro, .fractal, .grade, .intro-cse, .intro-ee, .intro-me, .common {
+
+    &__text {
+        text-align: justify;
+        font-size: $font-size-primary;
+        word-spacing: 3px;
+        font-weight: 300;
+    }
+
+    &__table {
+        th, td {
+            text-align: center;
+        }
+    }
+    
+}

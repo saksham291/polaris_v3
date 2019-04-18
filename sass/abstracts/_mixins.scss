@@ -1,0 +1,47 @@
+@mixin clearfix {
+    &::after {
+        content: '';
+        display: table;
+        clear: both;
+    }
+}
+
+// MEDIA QUERY MANAGER
+
+/*
+0px - 400px       Min Phone 
+400px - 600px     Phone
+600px - 900px     Tablet Portrait
+900px - 1200px    Tablet Landscape
+*/
+
+/*
+$breakpoint arguement choices:
+- min-phone
+- phone
+- tab-port
+- tab-land
+- big-desktop
+*/
+
+@mixin respond($breakpoint) {
+    @if $breakpoint == min-phone {
+        @media (max-width: 400px) { @content };
+    }
+    
+    @if $breakpoint == phone {
+        @media (max-width: 600px) { @content };
+    }
+
+    @if $breakpoint == tab-port {
+        @media (max-width: 1024px) { @content };
+    }
+
+    @if $breakpoint == tab-land {
+        @media (max-width: 1200px) { @content };
+    }
+
+    @if $breakpoint == big-desktop {
+        @media (min-width: 1800px) { @content };
+    }
+}

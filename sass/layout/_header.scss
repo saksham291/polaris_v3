@@ -1,0 +1,69 @@
+.header {
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+
+    &__hero-box {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        width: 100%;
+    }
+
+    &__home {
+        background-image: linear-gradient(to bottom, rgba($color-black, .1), rgba($color-black, .7)), url('../img/hero-1.jpeg');
+    }
+
+    &__nsso {
+        background-image: linear-gradient(to bottom, rgba($color-black, .1), rgba($color-black, .7)), url('../img/hero-2.jpg');
+    }
+
+    &__queries {
+        background-image: linear-gradient(to bottom, rgba($color-black, .1), rgba($color-black, .7)), url('../img/hero-3.jpg');
+    }
+
+    &__around {
+        background-image: linear-gradient(to bottom, rgba($color-black, .1), rgba($color-black, .7)), url('../img/hero-4.jpg');
+    }
+
+    &__mentors {
+        background-image: linear-gradient(to bottom, rgba($color-black, .1), rgba($color-black, .7)), url('../img/hero-5.jpg');
+    }
+
+    &__life {
+        background-image: linear-gradient(to bottom, rgba($color-black, .1), rgba($color-black, .7)), url('../img/hero-6.jpg');
+    }
+
+    &__scitech {
+        background-image: linear-gradient(to bottom, rgba($color-black, .1), rgba($color-black, .7)), url('../img/hero-7.jpg');
+    }
+
+    &__cultural {
+        background-image: linear-gradient(to bottom, rgba($color-black, .1), rgba($color-black, .7)), url('../img/hero-8.JPG');
+    }
+
+    &__outreach {
+        background-image: linear-gradient(to bottom, rgba($color-black, .1), rgba($color-black, .7)), url('../img/hero-9.jpg');
+    }
+
+    &__academic {
+        background-image: linear-gradient(to bottom, rgba($color-black, .1), rgba($color-black, .7)), url('../img/hero-10.jpg');
+    }
+
+    &__sports {
+        background-image: linear-gradient(to bottom, rgba($color-black, .1), rgba($color-black, .7)), url('../img/hero-11.jpg');
+    }
+
+    &__department {
+        background-image: linear-gradient(to bottom, rgba($color-black, .1), rgba($color-black, .7)), url('../img/hero-12.jpg');
+    }   
+    
+    &__coordinators {
+        background-image: linear-gradient(to bottom, rgba($color-black, .1), rgba($color-black, .7)), url('../img/hero-13.jpg');
+    }   
+
+}

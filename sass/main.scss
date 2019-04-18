@@ -1,0 +1,27 @@
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+
+@import "layout/footer";
+@import "layout/grid";
+@import "layout/header";
+@import "layout/navbar";
+
+@import "components/button";
+@import "components/card";
+@import "components/dropdown";
+@import "components/table";
+
+@import "pages/academics";
+@import "pages/around";
+@import "pages/cultural";
+@import "pages/home";
+@import "pages/life";
+@import "pages/outreach";
+@import "pages/scitech";
+@import "pages/sports";

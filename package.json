@@ -1,0 +1,14 @@
+{
+  "name": "polaris_v2",
+  "version": "1.0.0",
+  "description": "Landing Page for polaris ",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "node-sass sass/main.scss css/style_v3.css -w"
+  },
+  "author": "Student@IITBhilai",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}

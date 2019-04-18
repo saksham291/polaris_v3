@@ -1,0 +1,28 @@
+.clubs, .outreach {
+
+    &__text {
+        text-align: justify;
+        font-size: $font-size-primary;
+        word-spacing: 3px;
+        font-weight: 300;
+    }
+
+    span {
+        font-weight: 700;
+    }
+}
+
+.outreach {
+    width: 90%;
+    margin: 7rem auto;
+
+    &__photo {
+        width: 100%;
+    }
+
+    &__link {
+        text-decoration: none;
+        color: $color-primary;
+        font-weight: 700;
+    }
+}

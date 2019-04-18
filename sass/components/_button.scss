@@ -1,0 +1,36 @@
+.btn {
+    text-decoration: none;
+    color: $color-white;
+    font-size: 1.6rem;
+    background-color: $color-primary;
+    padding: 1.6rem 3rem;
+    border-radius: 100rem;
+    box-shadow: 0 3px 6px $color-grey-dark;
+    transition: all 0.4s;
+
+    &:hover,
+    &:active {
+        background-color: $color-primary-dark;
+    }
+
+    &-download {
+        display: inline-block;
+        margin-top: 3rem;
+    }
+
+    // &-download {
+    //     margin-right: 1rem;
+    // }
+
+    &-live {
+        display: inline-block;
+        margin-top: 1rem;
+        background-color: $color-green;
+        transition: all 0.4s;
+        
+        &:hover,
+        &:active {
+            background-color: darken($color: $color-green, $amount: 4);
+        }
+    }
+}

@@ -1,0 +1,56 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    line-height: 1.7;
+    color: $color-grey-dark;    
+}
+
+.heading-primary {
+    font-size: 6rem;
+    color: $color-white;
+    font-family: 'Bitter', serif;
+
+    @include respond(tab-land) {
+        font-size: 4rem;
+        line-height: 1.35;
+        margin: 0 $margin-respond;
+    }
+}
+
+.heading-subtitle {
+    font-size: 3rem;
+    color: $color-white;
+    font-family: 'Dancing Script', cursive;
+    word-spacing: 3px;
+
+    @include respond(tab-land) {
+        font-size: 1.5rem;
+        margin: 1.5rem $margin-respond;
+    }
+}
+
+.heading-secondary {
+    font-size: 4rem;
+    color: $color-primary-light;
+    font-family: 'Bitter', serif;
+    margin-bottom: $margin-bottom;
+
+    @include respond(tab-land) {
+        font-size: 3rem;
+    }
+
+    span {
+        font-size: 5rem;
+        color: $color-primary;
+
+        @include respond(tab-land) {
+            font-size: 4rem;
+        }
+    }
+    
+}
+
+.heading-tertiary {
+    font-size: 2rem;
+    font-family: 'Bitter', serif;
+}
