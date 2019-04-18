@@ -1,0 +1,5 @@
+RewriteEngine on
+
+
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^ %{REQUEST_FILENAME}.html [NC,L]
