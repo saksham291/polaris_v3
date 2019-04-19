@@ -7,7 +7,7 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <meta name="theme-color" content="#3498db">
         <meta property="og:image" content="https://polaris.iitbhilai.ac.in/img/2017_gymkhana.jpg" />
-        
+
         <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900|Bitter:700|Dancing+Script:700" rel="stylesheet">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 
@@ -73,10 +73,10 @@
                         <li>Those students who wants to avail loan from PNB, <a href="documents.html" class="notification">click here!</a></li>
                     </ul>
                 </div>
-            </div> 
+            </div>
 
         </div>
-        
+
         <div id="myModal--2" class="modal">
 
             <!-- Modal content -->
@@ -90,7 +90,7 @@
                    <ul id="live_updates">
                        <!-- <li>Keep checking this page for live updates</li>
                        <li>Live Updates will be started from 22nd, 8 am</li> -->
-                        <?php 
+                        <?php
                         $text = file_get_contents('https://docs.google.com/document/u/1/d/1RvDB_aho5oKb1-YuE_0JbTd_ApOmyXkLohNYjDJIyJQ/export?format=txt');
 
                         $lines=explode("\r\n",$text);
@@ -101,7 +101,7 @@
                         ?>
                    </ul>
                </div>
-           </div> 
+           </div>
 
        </div>
 
@@ -136,6 +136,7 @@
                                 <a href="scitech.html" class="dropdown-link">Scitech Clubs</a>
                                 <a href="outreach.html" class="dropdown-link">Outreach Clubs</a>
                                 <a href="sports.html" class="dropdown-link">Sports</a>
+                                <a href="gallery.html" class="dropdown-link">Gallery</a>
                             </div>
                         </li>
                     </ul>
@@ -192,7 +193,7 @@
                     <p class="message__text"><span>Dear friends,</span> <br><br>Welcome to Indian Institute of Technology Bhilai, one of the most prestigious institute of our country. You have cleared one test of your life with bright colours of success but many of them are still to clear. On behalf of whole student community I wish you all the best for your future journey that starts here at IIT Bhilai.
                     <br><br>
                     At IIT Bhilai we offer excellent environment for overall development of student. In Academics we have world class academic curriculum, well equipped labs, and library. In parallel throughout the year we have a plethora of cultural and technical events organized by the Council of Student Affairs for students to pursue their hobbies and develop interpersonal skills. CoSA exist to facilitate the availability of different opportunities for the student and also act as their voice. We are the association made by the student made of the student and made for the student. <br><br>
-                    
+
                     As President CoSA I assure you that you will enjoy each and every minute of your stay at IIT Bhilai and collect the memories that you will cherish throughout your life. Once again I welcome you to join our hand in our journey towards excellence. </p><br>
                     <p class="message__byline">With best wishes,</p>
                     <div class="row">
@@ -220,7 +221,7 @@
         </section>
 
         <div class="line-break"></div>
-        
+
         <section class="section">
             <div class="container">
                 <h2 class="heading-secondary">Campus Tour</h2>
@@ -236,9 +237,9 @@
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/25hhbQJ_NRw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                     </div>
                 </div>
-            </div>    
+            </div>
         </section>
-        
+
         <div class="line-break"></div>
 
         <section class="section">
@@ -371,7 +372,7 @@
                 </div>
             </div>
         </section>
-        
+
         <footer class="footer">
             <div class="row">
                 <div class="col-2-of-3">
@@ -444,7 +445,7 @@
                     live.style.display = "none";
                 }
             }
-            
+
             //Modal for Checklist
             $(window).load(function(){
                 $('.page-loader').fadeOut();
@@ -461,11 +462,11 @@
                     if (event.target == modal) {
                         modal.style.display = "none";
                     }
-                } 
+                }
             });
         </script>
-        
-    
+
+
     </body>
 
 </html>
