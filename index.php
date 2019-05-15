@@ -61,16 +61,11 @@
             <div class="modal-content">
                 <div class="modal-header">
                 <span class="close">&times;</span>
-                <h2>Checklist for Freshers 2018</h2>
+                <h2>Checklist for Freshers 2019</h2>
                 </div>
                 <div class="modal-body">
                     <ul>
-                        <li>All the students who are going to join IIT Bhilai this year are requested to go through the following link before coming to the main campus for final registration. <a href="https://www.iitbhilai.ac.in/index.php?pid=adm_undergraduate" target="_blank" class="notification">Take me there!</a></li>
-                        <br/>
-                        <li>You can pay the first semester fee online <a href="https://www.onlinesbi.com/prelogin/icollecthome.htm?corpID=646425" target="_blank" class="notification">here.</a> <strong>The deadline for fee payment is 23 July.</strong></li><br/>
-                        <li>No cash payment option will be available at the institute on 23rd July. For more details, <a href="documents.html" class="notification">click here!</a></li>
-                        <br/>
-                        <li>Those students who wants to avail loan from PNB, <a href="documents.html" class="notification">click here!</a></li>
+                        <li>The <a href="mentors.html">Mentors list</a> for the session 2019-20 has been updated.<br>Dear Students, For any queries regarding IIT Bhilai and 2019-20 admissions please feel free to contact any of the mentors.</li>
                     </ul>
                 </div>
             </div>
@@ -80,7 +75,7 @@
         <div id="myModal--2" class="modal">
 
             <!-- Modal content -->
-           <div class="modal-content">
+           <!-- <div class="modal-content">
                <div class="modal-header">
                <span class="close">&nbsp;&nbsp;&nbsp;&nbsp; &times;</span>
                <span class="close" onclick="refresh_live_updates()">&#8635;</span>
@@ -88,8 +83,8 @@
                </div>
                <div class="modal-body">
                    <ul id="live_updates">
-                       <!-- <li>Keep checking this page for live updates</li>
-                       <li>Live Updates will be started from 22nd, 8 am</li> -->
+                        <li>Keep checking this page for live updates</li>
+                       <li>Live Updates will be started from 22nd, 8 am</li>
                         <?php
                         $text = file_get_contents('https://docs.google.com/document/u/1/d/1RvDB_aho5oKb1-YuE_0JbTd_ApOmyXkLohNYjDJIyJQ/export?format=txt');
 
@@ -101,7 +96,7 @@
                         ?>
                    </ul>
                </div>
-           </div>
+           </div> -->
 
        </div>
 
@@ -149,8 +144,8 @@
                 <div class="header__hero-box">
                     <h1 class="heading-primary">Student Mentorship Program</h1>
                     <p class="heading-subtitle">Of the Student, By the Student, For the Student</p>
-                    <a href="Brochure_2018_19.pdf" class="btn btn-download" download>Brochure &nbsp; <i class="fas fa-download"></i></a><br/>
-                    <a href="#" class="btn btn-live" id="modalBtn">Live Updates &nbsp; <i class="fas fa-sync"></i></a>
+                    <!-- <a href="Brochure_2018_19.pdf" class="btn btn-download" download>Brochure &nbsp; <i class="fas fa-download"></i></a><br/>
+                    <a href="#" class="btn btn-live" id="modalBtn">Live Updates &nbsp; <i class="fas fa-sync"></i></a> -->
                 </div>
             </div>
         </header>
@@ -195,10 +190,10 @@
                     At IIT Bhilai we offer excellent environment for overall development of student. In Academics we have world class academic curriculum, well equipped labs, and library. In parallel throughout the year we have a plethora of cultural and technical events organized by the Council of Student Affairs for students to pursue their hobbies and develop interpersonal skills. CoSA exist to facilitate the availability of different opportunities for the student and also act as their voice. We are the association made by the student made of the student and made for the student. <br><br>
 
                     As President CoSA I assure you that you will enjoy each and every minute of your stay at IIT Bhilai and collect the memories that you will cherish throughout your life. Once again I welcome you to join our hand in our journey towards excellence. </p><br>
-                    <p class="message__byline">With best wishes,</p>
+                    <p class="message__byline">With best wishes,<br>Shreyam Chandra<br>President, CoSA</p>
                     <div class="row">
                         <div class="dev">
-                            <div class="col-1-of-4">
+                            <!-- <div class="col-1-of-4">
                                 <figure class="dev__shape">
                                     <img src="img/ketan.JPG" alt="Ketan Mishra" class="dev__img dev__img--president">
                                     <figcaption class="dev__caption">Ketan Mishra</figcaption>
@@ -213,7 +208,7 @@
                                 <div class="dev__phone">
                                     <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8109757005
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
