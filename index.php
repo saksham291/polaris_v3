@@ -75,7 +75,7 @@
         <div id="myModal--2" class="modal">
 
             <!-- Modal content -->
-           <!-- <div class="modal-content">
+            <div class="modal-content">
                <div class="modal-header">
                <span class="close">&nbsp;&nbsp;&nbsp;&nbsp; &times;</span>
                <span class="close" onclick="refresh_live_updates()">&#8635;</span>
@@ -96,7 +96,7 @@
                         ?>
                    </ul>
                </div>
-           </div> -->
+           </div>
 
        </div>
 
@@ -427,11 +427,11 @@
 
             //Modal for Live updates
             var live = document.getElementById('myModal--2');
-            var btn = document.getElementById("modalBtn");
+            //var btn = document.getElementById("modalBtn");
             var span = document.getElementsByClassName("close")[1];
-            btn.onclick = function() {
-                live.style.display = "block";
-            }
+            // btn.onclick = function() {
+            //     live.style.display = "block";
+            // }
             span.onclick = function() {
                 live.style.display = "none";
             }
