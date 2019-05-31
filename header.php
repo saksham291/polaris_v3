@@ -38,7 +38,8 @@
                         <a href="scitech.php" class="dropdown-link">Scitech Clubs</a>
                         <a href="outreach.php" class="dropdown-link">Outreach Clubs</a>
                         <a href="sports.php" class="dropdown-link">Sports</a>
-                        <a href="gallery.php" class="dropdown-link">Gallery</a>
+                        <a href="meraz.php" class="dropdown-link">Meraz</a>
+                        <!-- <a href="gallery.php" class="dropdown-link">Gallery</a> -->
                     </div>
                 </li>
             </ul>

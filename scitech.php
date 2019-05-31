@@ -52,53 +52,40 @@
 
                 <div class="scitech">
                     <h3 class="heading-tertiary">The Space Exploration Society (SES)</h3>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span>Abhishek Shingane</p><br>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Abhishek Shingane</p><br>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> The newest society of IIT Bhilai, SES is an astronomical society that seeks to provide a platform for conducting activities in the fields of observational astronomy, theoretical astrophysics, and aerospace engineering. As a new society, we have not had any activities conducted yet, but we have prepared an introductory newsletter as a part of the launch. The initial activities are planned to be in the form of presentations. Once we purchase telescopes, the observational activities can begin, which will be very fun! The aerospace part is still under planning, and will probably start functioning a while later as compared to the other 2 segments. </p>
                 </div>
 
                 <div class="line-break"></div>
 
-                <!-- <div class="scitech">
-                    <h3 class="heading-tertiary">Codificaso Club</h3>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Ruskin Manku</p><br>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> The Codificaso Club seeks to develop the student’s minds and capabilities in the massive and overgrowing field of competitive coding and software development.</p><br>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Intentions, themes and ideas:</span></p>
+                 <div class="scitech">
+                    <h3 class="heading-tertiary">Developers Student Club - by Google Developers</h3>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Lead:</span> Arjun Singh Kushwaha</p><br>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> Developer Student Clubs or DSC is a University Program kickstarted by Google Developers to train thousands of student developers globally and work with their communities to solve real-life problems. DSC IIT Bhilai was set-up primarily to ensure that we can bridge the divide between a student’s eagerness to learn and the technology evolving every day.
+                      The Developer Student Clubs (DSC) program is a grassroots channel through which the members of the community provide development skills for students, towards employability. In addition to workshops, DSCs also provide an opportunity for students to apply their newly gained skills to develop solutions for local organizations and then provide visibility via showcases.We will be taking up projects and any individual, group or organization with a good idea for a project and a thought to create an impact by making lives of people better will be welcome. We welcome all the development projects that involve the latest technologies like App development, Machine Learning, Web Development, Cloud Development and much more.</p><br>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Keypoints: </span></p>
 
                     <ul class="info__list">
-                        <li class="info__item">We wish to help students on their path of coding by giving them required facilities and opportunities.</li>
-                        <li class="info__item">Knowing more programming languages is never a disadvantage.</li>
-                        <li class="info__item">Practice makes perfect.</li>
+                        <li class="info__item">Students have the opportunity to not only learn development skills, but also apply it to live problems by developing solutions, and then showcasing their work within their communities.</li>
+                        <li class="info__item">Students get to develop their portfolios by showcasing the projects that have live applications rather than academic-only projects.</li>
+                        <li class="info__item">By developing solutions for local businesses/organizations, the college is positioning itself as a center of talented individuals that can provide offerings to the local community.</li>
+                        <li class="info__item">Direct Point of Communication with Enterprises that look for Tech Talents, as DSC Leads are Community Leaders empowered with the authority to issue Referrals for Strong Candidates.</li>
                     </ul>
 
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Features:</span></p>
-                    <ul class="info__list">
-                        <li class="info__item">The core team itself is divided into two groups: one dedicated for competitive coding and other for all the development projects.</li>
-                        <li class="info__item">Any student can seek help from the club in any matters pertaining to the club’s field.</li>
-                        <li class="info__item">Everyone is invited to join and be a part of Codificaso.</li>
-                        <li class="info__item">We support new, innovative ideas and do our best to help guide you through it.</li>
-                        <li class="info__item">Open projects, which require a team to work on, are also available for you to volunteer to work on and spend some quality time with other technical groups and get handy experience.</li>
-                    </ul>
-
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Detailed Description:</span></p>
-                    <ul class="info__list">
-                        <li class="info__item">For Competitive coding, we give sets of problems weekly for students to try and solve.</li>
-                        <li class="info__item">Small intra-competitions will be organised on a non-regular basis to excite extra enthusiasm and motivation among the students.</li>
-                        <li class="info__item">Any student who comes up with an idea of a project in the software field can come and discuss with us for any help from the club. Should he need people to work with him, the club will help gather volunteers for the project which he will be encouraged to spearhead.</li>
-                        <li class="info__item">Any and all help will be provided from the club, by coordinating with the authorities.</li>
-                        <li class="info__item">Our aim is to make your dream a reality.</li>
-                    </ul>
-                </div> -->
+                </div>
 
 
 
                 <div class="scitech">
                     <h3 class="heading-tertiary">Electromos</h3>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Ayushneel Titus</p><br>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> Electronics Club is the most visible club in IIT Bhilai. All the electronics components and chips are issued to the students by the Electronics Club. The best part of the club is students converting their innovative ideas into real-life projects. The Electronics Club motivates students to build practically what they read in theory. The club makes it possible to get hands-on experience in building new machines and gadgets using electronic components for any student. The club provides support, guidance and means to help students realise their conceptual designs and ideas to working real-life machines. The club also organises many activities like competitions, seminars, demonstrations and exhibitions.</p><br>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> The Epsilon Club, a club under the Science & Technology Clubs, IIT Bhilai, is a prodigious & one of the most appreciated feature of this Institute. The idea of providing a common platform for students interested in Robotics is what makes it different from other clubs. The main motive of the club is to provide a really strong platform for bringing his/her ideas on Robotics into         reality. Armed with the support of the institute, the knowledge pool and bubbling enthusiasm of its members, robotics club aims to provide the opportunity and materials to harness the creativity of the students.
+                      The Club provides all the necessary assistance for the same. Alongwith, there are several other club activities discussed below. With the motto of “IMAGINE, INVENT, INSPIRE” the club came into establishment in April 2017. Our esteemed group shares a common passion for the field of Robotics.
+                    </p><br>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Objectives and Ideas:</span></p>
 
                     <ul class="info__list">
-                        <li class="info__item">Group of students sharing a common interest Electronics and its Applications in engineering.</li>
+                        <li class="info__item">Group of students sharing a common interest in Electronics and its Applications in engineering.</li>
                         <li class="info__item">Give a taste of building machines and making life easier through technology to the students of all the branches.</li>
                         <li class="info__item">Passion to combine electronic parts into machines and robots.</li>
                         <li class="info__item">Expose students to hands-on experience early in life.</li>
@@ -106,13 +93,14 @@
                         <li class="info__item">Inculcating the good habits and practices of engineering things.</li>
                     </ul>
 
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Features:</span></p>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Activities:</span></p>
                     <ul class="info__list">
-                        <li class="info__item">Accessible to all students irrespective of the branch.</li>
-                        <li class="info__item">Encouragement of building it for real instead of just designing it on paper.</li>
-                        <li class="info__item">Organisation of events and group activities.</li>
-                        <li class="info__item">A platform to get help and give help.</li>
-                        <li class="info__item">Critical or advisory, feedback is always welcome and is acted upon.</li>
+                        <li class="info__item">Orientation Session.</li>
+                        <li class="info__item">Workshop for school students.</li>
+                        <li class="info__item">Real Steel and Ro-Boat in Meraz.</li>
+                        <li class="info__item">TCTD Challenge.</li>
+                        <li class="info__item">Wireless communication Workshop.</li>
+                        <li class="info__item">Workshop on Gesture Controlled Robot.</li>
                     </ul>
 
                     <div class="row">
@@ -136,6 +124,10 @@
                         <li class="info__item">Techmaitry</li>
                         <li class="info__item">Robo Carnival 2018</li>
                     </ul>
+                    <div class="row">
+                        <div class="col-1-of-2"><img src="img/life/epsilon-1.JPEG" alt="Epsilon" class="scitech__photo"></div>
+                        <div class="col-1-of-3"><img src="img/life/epsilon-2.JPEG" alt="Epsilon" class="scitech__photo"></div>
+                    </div>
                 </div>
 
             </div>

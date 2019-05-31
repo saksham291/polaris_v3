@@ -1,5 +1,5 @@
 /*
-0px - 400px       Min Phone 
+0px - 400px       Min Phone
 400px - 600px     Phone
 600px - 900px     Tablet Portrait
 900px - 1200px    Tablet Landscape
@@ -310,7 +310,8 @@ body {
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url("../img/hero-12.jpg"); }
   .header__coordinators {
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url("../img/hero-13.jpg"); }
-
+  .header__meraz {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url("../img/hero-14.JPG"); }
 .navigation {
   position: fixed;
   top: 0;

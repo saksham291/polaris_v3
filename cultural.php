@@ -139,7 +139,7 @@
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span>In our daily pursuit to achieve professional excellence we often neglect certain aspects of life. Music is one of them. It is our constant endeavour to spread awareness and induce a diverse music culture around us, encourage students to take up instruments. Giving opportunities to perform in front of a crowd. Swara as a club and band has performed at college festivals like Colossus (HNLU Naya Raipur), Armageddon (IIM Raipur), and at Inter IIT Cultural Meet 2018.</p><br>
                     <br>
                     <div class="row">
-                        <div class="col-1-of-2"><img src="img/life/music-1.jpg" alt="Music Club" class="cultural__photo"></div>
+                        <div class="col-1-of-2"><img src="img/life/music-1.JPG" alt="Music Club" class="cultural__photo"></div>
                         <div class="col-1-of-2"><img src="img/life/music-2.jpg" alt="Music Club" class="cultural__photo"></div>
                     </div>
                 </div>
