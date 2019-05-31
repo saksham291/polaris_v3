@@ -49,7 +49,7 @@
                 <div class="clubs">
                     <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://www.facebook.com/SportsIITBhilai/" class="outreach__link">Facebook</a></p>
                     <br>
-
+                    <h3 class="heading-tertiary">General Secretary - Divyanshu Agarwal</h3>
                     <p class="clubs__text">Education &mdash; for many this is probably one of the most important factors of our lives and from a very young age children work their way through the education system before being able to make their own decisions about whether to continue their learning through college, university and further education. As part of our educational syllabus we are expected to learn about a number of subjects, however, one of particular interest to us is physical education and sports, as they have a massive part to play within the education system. Sports teach us key values such as: Teamwork, Respect, Passion, Hard work and many other key attributes that help towards developing an individual’s character. Presence of good sports facilities is a vital tool in developing the above skills. The following sections elaborate on the sports facilities present at IIT Bhilai which will help the students to tackle the challenging curriculum with renewed vigour. For indoor games there is a recreation room in both the hostels. It houses T.T., board games, pool and Television facilities.</p>
                 </div>
 

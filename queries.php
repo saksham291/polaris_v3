@@ -77,6 +77,41 @@
                         <p class="info__text">IIT Bhilai gets it's internet connection from NKN (National Knowledge Network), which is known for providing very high speed connection to IITs and other Govt institutions. There is also a high speed BSNL connection, as a backup. Completely uncapped connection is provided to the students. There are several claims that they were getting around 120 mbps over LAN connection in hostel. Systems like proxy are avoided to ensure maximum compatibility.</p>
                     </div>
 
+                    <div class="info">
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Is it mandatory to report and do the registration on 23rd July 2019?</h3>
+                        <p class="info__text">Yes.</p>
+                    </div>
+
+                    <div class="info">
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> What about hostel room allocation and accommodation for parents?</h3>
+                        <p class="info__text">The Hostel rooms will be completely allocated upon sharing basis and will be completely random. No accommodation will be provided to the parents they can stay in nearby hotels.</p>
+                    </div>
+
+                    <div class="info">
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> What are the Scholarships available for students to avail?</h3>
+                        <p class="info__text">Institute supports several scholarships, fellowships and various forms of assistantships for deserving students.
+                            <ul class="info__list">
+                                    <li class="info__item"> Merit-cum-Means (MCM) Scholarship</li>
+                                    <li class="info__item"> Institute SC/ST Scholarship</li>
+                                    <li class="info__item"> Institute Free Studentship Scholarship</li>
+                                    <li class="info__item"> Institute Fellowship to Postgraduate Students</li>
+                            </ul>
+                                    <br>
+                              For Further Details refer Academic Brochure - <a href="https://www.iitbhilai.ac.in/index.php?pid=info_brochure">Click here</a>
+                                    <br>
+                          Also there are few State government and Central government scholarships for further details contact -<a href="https://www.iitbhilai.ac.in/index.php?pid=acad_contact">Academics Department</a>
+                      </p>
+                    </div>
+
+                    <div class="info">
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> What are the measures taken against Ragging?</h3>
+                        <p class="info__text">Yet IIT Bhilai is a ragging free campus, there is a policy against ragging and every students signs a letter to the effect that they will not participate in ragging. Everybody is vigilant to prevent any attempt of ragging. A reported case of ragging is dealt with strictly. </p>
+                    </div>
+
+                    <div class="info">
+                        <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> Is it safe for female students in the campus, what are the safety measures taken?</h3>
+                        <p class="info__text">Faculty members and Director reside on the campus itself and they are available for assistance. Our campus security is here for 24*7 support. Senior students also support the new students to get acquainted with the city and campus life - through the Mentorship program. If you want to raise a complaint, you will be supported too. We also have an Anti-ragging unit for support in campus.</p>
+                    </div>
                 </div>
             </div>
         </section>
