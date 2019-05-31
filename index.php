@@ -46,14 +46,7 @@
 
     <body>
 
-        <div class="page-loader">
-            <div class="sk-folding-cube">
-                <div class="sk-cube1 sk-cube"></div>
-                <div class="sk-cube2 sk-cube"></div>
-                <div class="sk-cube4 sk-cube"></div>
-                <div class="sk-cube3 sk-cube"></div>
-            </div>
-        </div>
+<?php require_once('header.php'); ?>
 
         <div id="myModal--1" class="modal">
 
@@ -100,44 +93,7 @@
 
        </div>
 
-        <nav class="navigation">
-            <div class="container">
-                <div class="navigation__logo-box">
-                    <p class="navigation__logo"><a href="index.php">Polaris</a></p>
-                </div>
 
-                <input type="checkbox" class="navigation__checkbox" id="nav-check">
-
-                <label for="nav-check" class="navigation__button">
-                    <span class="navigation__icon">&nbsp;</span>
-                </label>
-
-                <div class="navigation__background">&nbsp;</div>
-
-                <div class="navigation__nav">
-                    <ul class="navigation__list">
-                        <li class="navigation__list-item"><a href="mentors.html" class="navigation__link">Mentors</a></li>
-                        <li class="navigation__list-item"><a href="academics.html" class="navigation__link">Academics</a></li>
-                        <li class="navigation__list-item"><a href="disciplines.html" class="navigation__link">Disciplines</a></li>
-                        <li class="navigation__list-item"><a href="around.html" class="navigation__link">Around the Campus</a></li>
-                        <li class="navigation__list-item"><a href="nssandnso.html" class="navigation__link">NSS and NSO</a></li>
-                        <li class="navigation__list-item"><a href="documents.html" class="navigation__link">Documents</a></li>
-                        <li class="navigation__list-item"><a href="queries.html" class="navigation__link">Queries</a></li>
-                        <li class="navigation__list-item dropdown">
-                            <a class="dropdown-btn">Life &commat; IITBh &nbsp;<i class="fas fa-angle-down"></i></a>
-                            <div class="dropdown-content">
-                                <a href="life.html" class="dropdown-link">Hostel Life</a>
-                                <a href="cultural.html" class="dropdown-link">Cultural Clubs</a>
-                                <a href="scitech.html" class="dropdown-link">Scitech Clubs</a>
-                                <a href="outreach.html" class="dropdown-link">Outreach Clubs</a>
-                                <a href="sports.html" class="dropdown-link">Sports</a>
-                                <!-- <a href="gallery.html" class="dropdown-link">Gallery</a> -->
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
 
         <header class="header header__home">
             <div class="container">
@@ -187,9 +143,14 @@
                     <h2 class="heading-secondary">Message from <br><span>Council of Student Affairs</span></h2>
                     <p class="message__text"><span>Dear friends,</span> <br><br>Welcome to Indian Institute of Technology Bhilai, one of the most prestigious institute of our country. You have cleared one test of your life with bright colours of success but many of them are still to clear. On behalf of whole student community I wish you all the best for your future journey that starts here at IIT Bhilai.
                     <br><br>
-                    At IIT Bhilai we offer excellent environment for overall development of student. In Academics we have world class academic curriculum, well equipped labs, and library. In parallel throughout the year we have a plethora of cultural and technical events organized by the Council of Student Affairs for students to pursue their hobbies and develop interpersonal skills. CoSA exist to facilitate the availability of different opportunities for the student and also act as their voice. We are the association made by the student made of the student and made for the student. <br><br>
-
-                    As President CoSA I assure you that you will enjoy each and every minute of your stay at IIT Bhilai and collect the memories that you will cherish throughout your life. Once again I welcome you to join our hand in our journey towards excellence. </p><br>
+                    Your journey till now must have been tough and the path is still full of obstacles but in the next
+                    few years you will make companions called friends to face those hurdles together. Some of
+                    them will be friends for life and with some you will share a relationship to cherish for the rest
+                    of your life. College life, life at IIT Bhilai, in our case, is an experience full of fun, regrets,
+                    mistakes, friendship, love, faith, betrayal and trust and many more. In a nutshell, your life here
+                    will prepare you for what comes next.<br>
+                    I extend a warm welcome to all the freshmen who are about to step into the college life and
+                    hope to make this journey in IIT Bhilai a cherishable memorabilia. </p><br>
                     <p class="message__byline">With best wishes,<br>Shreyam Chandra<br>President, CoSA</p>
                     <div class="row">
                         <div class="dev">
@@ -368,53 +329,8 @@
             </div>
         </section>
 
-        <footer class="footer">
-            <div class="row">
-                <div class="col-2-of-3">
-                    <div class="footer__disclaimer">
-                        <div class="footer__title">
-                            Disclaimer
-                        </div>
-                        <p class="footer__text">
-                            The content on this website is developed solely by the student body of Indian Institute of Technology Bhilai. None of the views on any of the topics are endorsed by the institution.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-1-of-3">
-                    <div class="footer__connect">
-                        <div class="footer__title">
-                            Connect
-                        </div>
-                        <ul class="footer__list">
-                            <li class="footer__item"><a href="https://www.facebook.com/iit.bh/" class="footer__link footer__link--facebook"><i class="fab fa-facebook-square"></i>Facebook</a></li>
-                            <li class="footer__item"><a href="https://twitter.com/IIT_Bhilai" class="footer__link footer__link--twitter"><i class="fab fa-twitter"></i>Twitter</a></li>
-                            <li class="footer__item"><a href="https://www.instagram.com/iitbhilai/" class="footer__link footer__link--instagram"><i class="fab fa-instagram"></i>Instagram</a></li>
-                            <li class="footer__item"><a href="https://www.linkedin.com/school/iit-bhilai/" class="footer__link footer__link--linkedin"><i class="fab fa-linkedin"></i>LinkedIn</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <div class="footer__copyright">
-                <div class="row">
-                    <div class="col-2-of-3">
-                        <p class="copyright">&copy; 2018 &dash; 2019, Council of Student Affairs, IIT Bhilai</p>
-                    </div>
-                    <div class="col-1-of-3"><p class="love">Made with <i class="fas fa-heart"></i></p></div>
-                </div>
-            </div>
-
-        </footer>
-
-        <script
-              src="https://code.jquery.com/jquery-2.2.4.min.js"
-              integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
-              crossorigin="anonymous"></script>
-
-        <script src="js/scrollspy.js"></script>
+<?php require_once('footer.php'); ?>
         <script src="js/siema.min.js"></script>
-        <script src="js/script.js"></script>
         <script>
             const mySiema = new Siema({
                 duration: 600,

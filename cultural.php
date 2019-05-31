@@ -30,53 +30,9 @@
 
     <body>
 
-        <div class="page-loader">
-            <div class="sk-folding-cube">
-                <div class="sk-cube1 sk-cube"></div>
-                <div class="sk-cube2 sk-cube"></div>
-                <div class="sk-cube4 sk-cube"></div>
-                <div class="sk-cube3 sk-cube"></div>
-            </div>
-        </div>
-
-        <nav class="navigation">
-            <div class="container">
-                <div class="navigation__logo-box">
-                    <p class="navigation__logo"><a href="index.php">Polaris</a></p>
-                </div>
-
-                <input type="checkbox" class="navigation__checkbox" id="nav-check">
-
-                <label for="nav-check" class="navigation__button">
-                    <span class="navigation__icon">&nbsp;</span>
-                </label>
-
-                <div class="navigation__background">&nbsp;</div>
-
-                <div class="navigation__nav">
-                    <ul class="navigation__list">
-                        <li class="navigation__list-item"><a href="mentors.html" class="navigation__link">Mentors</a></li>
-                        <li class="navigation__list-item"><a href="academics.html" class="navigation__link">Academics</a></li>
-                        <li class="navigation__list-item"><a href="disciplines.html" class="navigation__link">Disciplines</a></li>
-                        <li class="navigation__list-item"><a href="around.html" class="navigation__link">Around the Campus</a></li>
-                        <li class="navigation__list-item"><a href="nssandnso.html" class="navigation__link">NSS and NSO</a></li>
-                        <li class="navigation__list-item"><a href="documents.html" class="navigation__link">Documents</a></li>
-                        <li class="navigation__list-item"><a href="queries.html" class="navigation__link">Queries</a></li>
-                        <li class="navigation__list-item dropdown">
-                            <a class="dropdown-btn">Life &commat; IITBh &nbsp;<i class="fas fa-angle-down"></i></a>
-                            <div class="dropdown-content">
-                                <a href="life.html" class="dropdown-link">Hostel Life</a>
-                                <a href="cultural.html" class="dropdown-link">Cultural Clubs</a>
-                                <a href="scitech.html" class="dropdown-link">Scitech Clubs</a>
-                                <a href="outreach.html" class="dropdown-link">Outreach Clubs</a>
-                                <a href="sports.html" class="dropdown-link">Sports</a>
-                                <!-- <a href="gallery.html" class="dropdown-link">Gallery</a> -->
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
+      <?php
+      require_once('header.php');
+      ?>
 
         <header class="header header__cultural">
             <div class="container">
@@ -135,10 +91,16 @@
 
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Events &amp; Activities:</span></p>
                     <ul class="info__list">
-                        <li class="info__item">Participated in open mic (IIT HYDERABAD).</li>
-                        <li class="info__item">Participated on Independence day (Freedom Fortnight).</li>
-                        <li class="info__item">3 workshops conducted for 3 different styles (bhangra, hip hop, and Bollywood style).</li>
+                        <li class="info__item">Beathackers performance in orientation program (Ciao).</li>
+                        <li class="info__item">Cultural Performance in Meraz'18 (Flash Mob, opening ceremony and host dance performance).</li>
+                        <li class="info__item">Participated in InterIIT Cultural Meet 2018.</li>
+                        <li class="info__item">Beathackers performance in Cultural Night.</li>
+                        <li class="info__item">Xpressions (Dance night).</li>
                     </ul>
+                    <div class="row">
+                        <div class="col-1-of-2"><img src="img/life/beathackers-1.jpg" alt="Dance Club" class="cultural__photo"></div>
+                        <div class="col-1-of-2"><img src="img/life/beathackers-2.jpg" alt="Dance Club" class="cultural__photo"></div>
+                    </div>
                 </div>
 
                 <div class="line-break"></div>
@@ -155,6 +117,11 @@
                     <h3 class="heading-tertiary">Drishya</h3>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinators:</span> Shivansh Mishra</p><br>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> "The most exciting acting tends to happen in the roles you never thought you could play" - John Lithgow Drishya, the official drama club of iit bhilai, where you enter into a new world. You forget about yourself and gain the identity of an anonymous character. Here you can be the opposite of what you are or anyone you want to be. You will get a chance to act, write scripts, direct plays or you can also become a story teller. I, as a coordinator of drishya assures you that once you enter this club, you will have lots of fun with enhancement of your drama skills. So all those who believes that – yes there is an actor inside me, then do come and become a part of drishya family.</p>
+                    <br>
+                    <div class="row">
+                        <div class="col-1-of-2"><img src="img/life/drishya-1.jpg" alt="Drama Club" class="cultural__photo"></div>
+                        <div class="col-1-of-2"><img src="img/life/drishya-2.jpg" alt="Drama Club" class="cultural__photo"></div>
+                    </div>
                 </div>
 
                 <div class="line-break"></div>
@@ -168,8 +135,8 @@
 
                 <div class="cultural">
                     <h3 class="heading-tertiary">Swara</h3>
-                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinators:</span> Debajyoti Haldar</p><br>
-                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> In our daily pursuit to achieve professional excellence we often neglect certain aspects of life. Music is one of them. It is our constant endeavour to spread awareness and induce a diverse music culture around us, encourage students to take up instruments. Giving opportunities to perform in front of a crowd. In our first year as a club we have performed at IIM Raipur Fest- Armageddon and Open Mic event at IIT Hyderabad.</p><br>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinators:</span> Debajyoti Halder</p><br>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span>In our daily pursuit to achieve professional excellence we often neglect certain aspects of life. Music is one of them. It is our constant endeavour to spread awareness and induce a diverse music culture around us, encourage students to take up instruments. Giving opportunities to perform in front of a crowd. Swara as a club and band has performed at college festivals like Colossus (HNLU Naya Raipur), Armageddon (IIM Raipur), and at Inter IIT Cultural Meet 2018.</p><br>
                     <br>
                     <div class="row">
                         <div class="col-1-of-2"><img src="img/life/music-1.jpg" alt="Music Club" class="cultural__photo"></div>
@@ -197,58 +164,19 @@
                         </ul>
 
                         <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Follow us:</span> <a href="https://www.facebook.com/ThePixelSnappers/" class="outreach__link">Facebook</a>, <a href="https://www.instagram.com/thepixelsnappers/" class="outreach__link">Instagram</a>, <a href="https://twitter.com/pixelsnappers" class="outreach__link">Twitter</a>, <a href="https://www.youtube.com/channel/UCs_b3N6z8XZSCY4KUrcQnsQ" class="outreach__link">YouTube</a></p>
+                        <br>
+                        <div class="row">
+                            <div class="col-2-of-2"><img src="img/life/tps-2.JPG" alt="The Pixel Snappers" class="cultural__photo"></div>
+                        </div>
                     </div>
 
             </div>
         </section>
 
 
-        <footer class="footer">
-            <div class="row">
-                <div class="col-2-of-3">
-                    <div class="footer__disclaimer">
-                        <div class="footer__title">
-                            Disclaimer
-                        </div>
-                        <p class="footer__text">
-                            The content on this website is developed solely by the student body of Indian Institute of Technology Bhilai. None of the views on any of the topics are endorsed by the institution.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="col-1-of-3">
-                    <div class="footer__connect">
-                        <div class="footer__title">
-                            Connect
-                        </div>
-                        <ul class="footer__list">
-                            <li class="footer__item"><a href="https://www.facebook.com/iit.bh/" class="footer__link footer__link--facebook"><i class="fab fa-facebook-square"></i>Facebook</a></li>
-                            <li class="footer__item"><a href="https://twitter.com/IIT_Bhilai" class="footer__link footer__link--twitter"><i class="fab fa-twitter"></i>Twitter</a></li>
-                            <li class="footer__item"><a href="https://www.instagram.com/iitbhilai/" class="footer__link footer__link--instagram"><i class="fab fa-instagram"></i>Instagram</a></li>
-                            <li class="footer__item"><a href="https://www.linkedin.com/school/iit-bhilai/" class="footer__link footer__link--linkedin"><i class="fab fa-linkedin"></i>LinkedIn</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <div class="footer__copyright">
-                <div class="row">
-                    <div class="col-2-of-3">
-                        <p class="copyright">&copy; 2018 &dash; 2019, Council of Student Affairs, IIT Bhilai</p>
-                    </div>
-                    <div class="col-1-of-3"><p class="love">Made with <i class="fas fa-heart"></i></p></div>
-                </div>
-            </div>
-
-        </footer>
-
-        <script
-			  src="https://code.jquery.com/jquery-2.2.4.min.js"
-			  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
-			  crossorigin="anonymous"></script>
-
-        <script src="js/scrollspy.js"></script>
-        <script src="js/script.js"></script>
+        <?php
+        require_once('footer.php');
+        ?>
 
     </body>
 
