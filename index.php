@@ -151,25 +151,25 @@
                     will prepare you for what comes next.<br>
                     I extend a warm welcome to all the freshmen who are about to step into the college life and
                     hope to make this journey in IIT Bhilai a cherishable memorabilia. </p><br>
-                    <p class="message__byline">With best wishes,<br>Shreyam Chandra<br>President, CoSA</p>
+                    <p class="message__byline">With best wishes,<br>Shreyam Chandra</p>
                     <div class="row">
                         <div class="dev">
-                            <!-- <div class="col-1-of-4">
+                             <div class="col-1-of-4">
                                 <figure class="dev__shape">
-                                    <img src="img/ketan.JPG" alt="Ketan Mishra" class="dev__img dev__img--president">
-                                    <figcaption class="dev__caption">Ketan Mishra</figcaption>
+                                    <img src="img/shreyam.JPG" alt="Shreyam Chandra" class="dev__img dev__img--president">
+                                    <figcaption class="dev__caption">Shreyam Chandra</figcaption>
                                 </figure>
                                 <div class="dev__name">President, CoSA</div>
                                 <a href="mailto:President_CoSA@iitbhilai.ac.in" class="dev__profile">
                                     <i class="far fa-envelope dev__profile--icon"></i>
                                 </a>
-                                <a href="https://www.facebook.com/ketan.mishra.3107" class="dev__profile">
+                                <a href="https://www.facebook.com/shreyam.chandra.9" class="dev__profile">
                                     <i class="fab fa-facebook-f dev__profile--icon"></i>
                                 </a>
                                 <div class="dev__phone">
-                                    <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8109757005
+                                    <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7470448887
                                 </div>
-                            </div> -->
+                            </div>
                         </div>
                     </div>
                 </div>

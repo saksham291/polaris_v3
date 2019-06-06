@@ -55,8 +55,27 @@
         </header>
         <section class="section">
             <div class="container">
-              <center>  <a href="http://meraz.iitbhilai.ac.in" class="outreach__link"><h2 class="heading-secondary">Meraz Official Site</h2></a></center>
+              <center>
+                <a href="http://meraz.iitbhilai.ac.in" class="outreach__link"><h2 class="heading-secondary">Meraz'18 Aftermovie</h2></a>
+                <iframe width="840" height="472.5" src="https://www.youtube.com/embed/uOQbTb4-ejs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              </center>
+        </div>
+        <br>
+        <div class="container">
+            <h2 class="heading-secondary">More Videos</h2>
+        </div>
+        <div class="row">
+            <div class="col-1-of-2">
+                <div class="campus">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/gKt4JCaQlmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
             </div>
+            <div class="col-1-of-2">
+                <div class="campus">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/2fMa3wJy0H0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
         </section>
 
 

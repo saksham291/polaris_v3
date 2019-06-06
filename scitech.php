@@ -47,35 +47,35 @@
             <div class="container">
                 <h2 class="heading-secondary">Sci-tech Clubs</h2>
                 <div class="clubs">
-                  <h3 class="heading-tertiary">General Secretary - Saurav Kumar</h3>
+                  <h3 class="heading-tertiary">General Secretary - Rajat Bansal</h3>
                     <p class="clubs__text">We all, as a part of an elite league of institutes, aspire to work at the frontiers of human knowledge, innovate technology, initiate revolutions in science and propel national development to new heights. But often in such a competitive environment, work is stressed to the point of mania and this is when comes in the need of recreation. Rediscover your hobbies and explore new ones with Clubs at IIT Bhilai. Mind you there is absolutely no bound on anyone’s interest which also means that there is no bound on how many clubs you can be in – it is all up to you. Currently the following clubs are functional and conduct their respective activities at a regular basis:</p>
                 </div>
+                <div class="scitech">
+                   <h3 class="heading-tertiary">Developers Student Club - by Google Developers</h3>
+                   <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Lead:</span> Arjun Singh Kushwaha</p><br>
+                   <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> Developer Student Clubs or DSC is a University Program kickstarted by Google Developers to train thousands of student developers globally and work with their communities to solve real-life problems. DSC IIT Bhilai was set-up primarily to ensure that we can bridge the divide between a student’s eagerness to learn and the technology evolving every day.
+                     The Developer Student Clubs (DSC) program is a grassroots channel through which the members of the community provide development skills for students, towards employability. In addition to workshops, DSCs also provide an opportunity for students to apply their newly gained skills to develop solutions for local organizations and then provide visibility via showcases.We will be taking up projects and any individual, group or organization with a good idea for a project and a thought to create an impact by making lives of people better will be welcome. We welcome all the development projects that involve the latest technologies like App development, Machine Learning, Web Development, Cloud Development and much more.</p><br>
+                   <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Keypoints: </span></p>
+
+                   <ul class="info__list">
+                       <li class="info__item">Students have the opportunity to not only learn development skills, but also apply it to live problems by developing solutions, and then showcasing their work within their communities.</li>
+                       <li class="info__item">Students get to develop their portfolios by showcasing the projects that have live applications rather than academic-only projects.</li>
+                       <li class="info__item">By developing solutions for local businesses/organizations, the college is positioning itself as a center of talented individuals that can provide offerings to the local community.</li>
+                       <li class="info__item">Direct Point of Communication with Enterprises that look for Tech Talents, as DSC Leads are Community Leaders empowered with the authority to issue Referrals for Strong Candidates.</li>
+                   </ul>
+
+               </div>
+
+
+                <div class="line-break"></div>
 
                 <div class="scitech">
                     <h3 class="heading-tertiary">The Space Exploration Society (SES)</h3>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Abhishek Shingane</p><br>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> The newest society of IIT Bhilai, SES is an astronomical society that seeks to provide a platform for conducting activities in the fields of observational astronomy, theoretical astrophysics, and aerospace engineering. As a new society, we have not had any activities conducted yet, but we have prepared an introductory newsletter as a part of the launch. The initial activities are planned to be in the form of presentations. Once we purchase telescopes, the observational activities can begin, which will be very fun! The aerospace part is still under planning, and will probably start functioning a while later as compared to the other 2 segments. </p>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> SES is an astronomical and aeromodelling society that seeks to provide a platform for conducting activities in the fields of observational astronomy, theoretical astrophysics, and aerospace engineering. With recently procured high power telescopes, members can gaze into the void of space. The Aerospace section will be designing its first low altitude plane in upcoming semester. SES also plans to participate in <a href="http://nssc.in/home/">National Student Space Challenge 2019</a>. </p>
                 </div>
 
                 <div class="line-break"></div>
-
-                 <div class="scitech">
-                    <h3 class="heading-tertiary">Developers Student Club - by Google Developers</h3>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Lead:</span> Arjun Singh Kushwaha</p><br>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> Developer Student Clubs or DSC is a University Program kickstarted by Google Developers to train thousands of student developers globally and work with their communities to solve real-life problems. DSC IIT Bhilai was set-up primarily to ensure that we can bridge the divide between a student’s eagerness to learn and the technology evolving every day.
-                      The Developer Student Clubs (DSC) program is a grassroots channel through which the members of the community provide development skills for students, towards employability. In addition to workshops, DSCs also provide an opportunity for students to apply their newly gained skills to develop solutions for local organizations and then provide visibility via showcases.We will be taking up projects and any individual, group or organization with a good idea for a project and a thought to create an impact by making lives of people better will be welcome. We welcome all the development projects that involve the latest technologies like App development, Machine Learning, Web Development, Cloud Development and much more.</p><br>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Keypoints: </span></p>
-
-                    <ul class="info__list">
-                        <li class="info__item">Students have the opportunity to not only learn development skills, but also apply it to live problems by developing solutions, and then showcasing their work within their communities.</li>
-                        <li class="info__item">Students get to develop their portfolios by showcasing the projects that have live applications rather than academic-only projects.</li>
-                        <li class="info__item">By developing solutions for local businesses/organizations, the college is positioning itself as a center of talented individuals that can provide offerings to the local community.</li>
-                        <li class="info__item">Direct Point of Communication with Enterprises that look for Tech Talents, as DSC Leads are Community Leaders empowered with the authority to issue Referrals for Strong Candidates.</li>
-                    </ul>
-
-                </div>
-
-
 
                 <div class="scitech">
                     <h3 class="heading-tertiary">Electromos</h3>
