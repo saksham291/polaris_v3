@@ -203,15 +203,14 @@
                 <h2 class="heading-secondary">Gallery</h2>
                 <div class="gallery">
                     <div class="siema">
-                        <img src="img/gallery/1-min.JPG" alt="1-min"/>
-                        <img src="img/gallery/2-min.JPG" alt="2-min"/>
-                        <img src="img/gallery/3-min.JPG" alt="3-min"/>
-                        <img src="img/gallery/4-min.JPG" alt="4-min"/>
-                        <img src="img/gallery/5-min.JPG" alt="5-min"/>
-                        <img src="img/gallery/6-min.JPG" alt="6-min"/>
-                        <img src="img/gallery/7-min.JPG" alt="7-min"/>
-                        <img src="img/gallery/8-min.JPG" alt="8-min"/>
-                        <img src="img/gallery/9-min.JPG" alt="9-min"/>
+                        <img src="img/gallery/g1.JPG" alt="1-min"/>
+                        <img src="img/gallery/g2.JPG" alt="2-min"/>
+                        <img src="img/gallery/g3.JPG" alt="3-min"/>
+                        <img src="img/gallery/g4.JPG" alt="4-min"/>
+                        <img src="img/gallery/g5.JPG" alt="5-min"/>
+                        <img src="img/gallery/g6.JPG" alt="6-min"/>
+                        <img src="img/gallery/g7.JPG" alt="7-min"/>
+                        <img src="img/gallery/g8.JPG" alt="8-min"/>
                     </div>
                     <div class="btn-siema">
                         <div class="btn-prev prev"><i class="fas fa-chevron-circle-left"></i></div>

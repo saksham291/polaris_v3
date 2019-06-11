@@ -76,6 +76,9 @@
                 </div>
             </div>
         </div>
+        <center>
+        <a href="http://meraz.iitbhilai.ac.in" class="outreach__link"><h2 class="heading-secondary">Meraz'18 Official Website</h2></a>
+      </center>
         </section>
 
 
