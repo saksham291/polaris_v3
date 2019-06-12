@@ -52,7 +52,7 @@
 
                 <div class="outreach">
                     <h3 class="heading-tertiary">Inside, News and Media Club</h3>
-                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Aniket Raj</p><br>
+                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Ankit Yadav</p><br>
                     <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> "Inside" is the student media body of IIT Bhilai. We are a team of dedicated individuals with a zeal for writing and passion for developing media skills. The power of professional media has revolutionized the way things shape up these days around the globe. Inspired by the fraternity of journalists and showmen, we at IIT Bhilai aim to set up a student community committed towards providing an effective forum for communication within the Institute.</p><br>
 
                     <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>What's our work?</span></p>
