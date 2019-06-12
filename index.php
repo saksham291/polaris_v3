@@ -207,10 +207,10 @@
                         <img src="img/gallery/g2.JPG" alt="2-min"/>
                         <img src="img/gallery/g3.JPG" alt="3-min"/>
                         <img src="img/gallery/g4.JPG" alt="4-min"/>
-                        <img src="img/gallery/g5.JPG" alt="5-min"/>
+                        <img src="img/gallery/g5.jpg" alt="5-min"/>
                         <img src="img/gallery/g6.JPG" alt="6-min"/>
                         <img src="img/gallery/g7.JPG" alt="7-min"/>
-                        <img src="img/gallery/g8.JPG" alt="8-min"/>
+                        <img src="img/gallery/g8.jpg" alt="8-min"/>
                     </div>
                     <div class="btn-siema">
                         <div class="btn-prev prev"><i class="fas fa-chevron-circle-left"></i></div>

@@ -126,8 +126,8 @@
                         <li class="info__item">Robo Carnival 2018</li>
                     </ul>
                     <div class="row">
-                        <div class="col-1-of-2"><img src="img/life/epsilon-1.JPEG" alt="Epsilon" class="scitech__photo"></div>
-                        <div class="col-1-of-3"><img src="img/life/epsilon-2.JPEG" alt="Epsilon" class="scitech__photo"></div>
+                        <div class="col-1-of-2"><img src="img/life/epsilon-1.jpeg" alt="Epsilon" class="scitech__photo"></div>
+                        <div class="col-1-of-3"><img src="img/life/epsilon-2.jpeg" alt="Epsilon" class="scitech__photo"></div>
                     </div>
                 </div>
 

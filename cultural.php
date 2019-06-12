@@ -99,8 +99,8 @@
                         <li class="info__item">Xpressions (Dance night).</li>
                     </ul>
                     <div class="row">
-                        <div class="col-1-of-2"><img src="img/life/beathackers-1.jpg" alt="Dance Club" class="cultural__photo"></div>
-                        <div class="col-1-of-2"><img src="img/life/beathackers-2.jpg" alt="Dance Club" class="cultural__photo"></div>
+                        <div class="col-1-of-2"><img src="img/life/beathackers-1.JPG" alt="Dance Club" class="cultural__photo"></div>
+                        <div class="col-1-of-2"><img src="img/life/beathackers-2.JPG" alt="Dance Club" class="cultural__photo"></div>
                     </div>
                 </div>
 
@@ -120,8 +120,8 @@
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> "The most exciting acting tends to happen in the roles you never thought you could play" - John Lithgow Drishya, the official drama club of iit bhilai, where you enter into a new world. You forget about yourself and gain the identity of an anonymous character. Here you can be the opposite of what you are or anyone you want to be. You will get a chance to act, write scripts, direct plays or you can also become a story teller. I, as a coordinator of drishya assures you that once you enter this club, you will have lots of fun with enhancement of your drama skills. So all those who believes that – yes there is an actor inside me, then do come and become a part of drishya family.</p>
                     <br>
                     <div class="row">
-                        <div class="col-1-of-2"><img src="img/life/drishya-1.jpg" alt="Drama Club" class="cultural__photo"></div>
-                        <div class="col-1-of-2"><img src="img/life/drishya-2.jpg" alt="Drama Club" class="cultural__photo"></div>
+                        <div class="col-1-of-2"><img src="img/life/drishya-1.JPG" alt="Drama Club" class="cultural__photo"></div>
+                        <div class="col-1-of-2"><img src="img/life/drishya-2.JPG" alt="Drama Club" class="cultural__photo"></div>
                     </div>
                 </div>
 
