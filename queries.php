@@ -97,6 +97,8 @@
                                     <li class="info__item"> Institute Fellowship to Postgraduate Students</li>
                             </ul>
                                     <br>
+                                  </p>
+                                    <p class="info__text">
                               For Further Details refer Academic Brochure - <a href="https://www.iitbhilai.ac.in/index.php?pid=info_brochure">Click here</a>
                                     <br>
                           Also there are few State government and Central government scholarships for further details contact -<a href="https://www.iitbhilai.ac.in/index.php?pid=acad_contact">Academics Department</a>
