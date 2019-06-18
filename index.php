@@ -58,7 +58,7 @@
                 </div>
                 <div class="modal-body">
                     <ul>
-                        <li>The <a href="mentors.html">Mentors list</a> for the session 2019-20 has been updated.<br>Dear Students, For any queries regarding IIT Bhilai and 2019-20 admissions please feel free to contact any of the mentors.</li>
+                        <li>The <a href="mentors.php">Mentors list</a> for the session 2019-20 has been updated.<br>Dear Students, For any queries regarding IIT Bhilai and 2019-20 admissions please feel free to contact any of the mentors.</li>
                     </ul>
                 </div>
             </div>
