@@ -287,9 +287,9 @@
 
             <div class="row">
                 <div class="dev">
-                    <div class="col-1-of-4">&nbsp;</div>
+                    <!-- <div class="col-1-of-4">&nbsp;</div> -->
 
-                    <div class="col-1-of-4">
+                    <div class="col-1-of-3">
                         <figure class="dev__shape">
                             <img src="img/devs/aniket.jpg" alt="Aniket Raj" class="dev__img">
                             <figcaption class="dev__caption">Aniket Raj</figcaption>
@@ -306,7 +306,7 @@
                         </div>
                     </div>
 
-                    <div class="col-1-of-4">
+                    <div class="col-1-of-3">
                         <figure class="dev__shape">
                             <img src="img/devs/gaurav.jpg" alt="Gaurav Verma" class="dev__img">
                             <figcaption class="dev__caption">Gaurav Verma</figcaption>
@@ -323,7 +323,23 @@
                         </div>
                     </div>
 
-                    <div class="col-1-of-4">&nbsp;</div>
+                    <div class="col-1-of-3">
+                        <figure class="dev__shape">
+                            <img src="img/devs/saksham.jpg" alt="Saksham Bhushan" class="dev__img">
+                            <figcaption class="dev__caption">Saksham Bhushan</figcaption>
+                        </figure>
+                        <div class="dev__name"><strong>Saksham Bhushan</strong><br/>Website Manager - 2019</div>
+                        <a href="mailto:sakshamb@iitbhilai.ac.in" class="dev__profile">
+                            <i class="far fa-envelope dev__profile--icon"></i>
+                        </a>
+                        <a href="https://www.facebook.com/saksham291" target="_blank" class="dev__profile">
+                            <i class="fab fa-facebook-f dev__profile--icon"></i>
+                        </a>
+                        <div class="dev__phone">
+                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 8299278436
+                        </div>
+                    </div>
+                    <!-- <div class="col-1-of-4">&nbsp;</div> -->
                 </div>
             </div>
         </section>
