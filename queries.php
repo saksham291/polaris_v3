@@ -69,7 +69,7 @@
 
                     <div class="info">
                         <h3 class="heading-tertiary"><i class="far fa-dot-circle"></i> What are the facilities and amenities provided in the hostels?</h3>
-                        <p class="info__text">IIT Bhilai is a residential campus, with well facilitated student's hostels.There are four hostels namely Castle Ena, Castle Dio, Castle Tria and Castle Tessera. All hostels are equipped with some sport facilities, recreation rooms, TV room, washing machines, and dining etc. Hostels are rigged with Wi-Fi and LAN access. For more information visit <a href="life.html#hostel__facilities">Polaris &dash; Hostel Facilities</a></p>
+                        <p class="info__text">IIT Bhilai is a residential campus, with well facilitated student's hostels.There are four hostels namely Castle Ena, Castle Dio, Castle Tria and Castle Tessera. All hostels are equipped with some sport facilities, recreation rooms, TV room, washing machines, and dining etc. Hostels are rigged with Wi-Fi and LAN access. For more information visit <a href="life.php#hostel__facilities">Polaris &dash; Hostel Facilities</a></p>
                     </div>
 
                     <div class="info">
