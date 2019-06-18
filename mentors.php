@@ -506,7 +506,7 @@
                 </div>
             </div>
             <div class="container">
-                <h2 class="heading-secondary">The Team - MTech</h2>
+                <h2 class="heading-secondary">The Team - Post Graduate</h2>
             </div>
             <div class="row">
                 <div class="dev">
