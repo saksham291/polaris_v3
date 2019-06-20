@@ -46,7 +46,7 @@
             <div class="container">
                 <h2 class="heading-secondary">About</h2>
                 <div class="about">
-                    <p class="about__text">The hostel lifestyle is an integral part of the one’s college life. Here, at IIT Bhilai, the hostel life is much more than just ‘hanging out’. Our student community is very enthusiatic which is why being here is a totally vivid experience. Even though in its infancy, IIT Bhilai has developed a rich student cluture where students from different communities come together and have time of their lifetime. As part of student activities we have established the official student body, Council of Student Affairs(CoSA). Under it function various clubs and associations, each having a coordinator. Students are encouraged to actively participate in the clubs whoch interests them. This makes hostel life exciting and fun. </p>
+                    <p class="about__text">The hostel lifestyle is an integral part of the one’s college life. Here, at IIT Bhilai, the hostel life is much more than just ‘hanging out’. Our student community is very enthusiatic which is why being here is a totally vivid experience. Even though in its infancy, IIT Bhilai has developed a rich student culture where students from different communities come together and have time of their lifetime. As part of student activities we have established the official student body, Council of Student Affairs(CoSA). Under it function various clubs and associations, each having a coordinator. Students are encouraged to actively participate in the clubs whoch interests them. This makes hostel life exciting and fun. </p>
                 </div>
             </div>
         </section>
@@ -57,7 +57,7 @@
             <div class="container">
                 <h2 class="heading-secondary">Campus Location</h2>
                 <div class="location">
-                    <p class="location__text">IIT Bhilai is located in its temporary campus which is inside the premises of The Government Engineering College(GEC), Raipur. One striking feature of the campus is that it houses not two but three leading Institutions, the third one being IIM Raipur. The campus is about 12 km from Raipur Junction Railway Station, 16 km from Raipur Airport and 13 km from Pandri Bus Stand, Raipur. Auto Rickshaws are easily available from these places to the campus.</p>
+                    <p class="location__text">IIT Bhilai is located in its temporary campus which is inside the premises of The Government Engineering College(GEC), Raipur. The campus is about 12 km from Raipur Junction Railway Station, 16 km from Raipur Airport and 13 km from Pandri Bus Stand, Raipur. Auto Rickshaws are easily available from these places to the campus.</p>
                 </div>
 
                 <iframe width="100%" height="400" frameborder="0" style="border:0;margin-top:2rem" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDwxilx3FT8Oe4JCbm8elUIlqN66aMTUEU&q=IIT+Bhilai,Old+Dhamtari+Rd&maptype=satellite" allowfullscreen></iframe>
@@ -71,19 +71,19 @@
                 <h2 class="heading-secondary" id="hostel__facilities">Facilities Available</h2>
                 <div class="facilities">
                     <h3 class="heading-tertiary">Hostels for girls and boys</h3>
-                    <p class="facilities__text">Staying in campus is fun because of hostel and the environment that it offers. We have two hostels, Castle Ena and Castle Dio. Third year boys along with second year resides in Castle dio. All the girls will be residing in three wings on ground while the fourth wing will have rooms for M.Tech and PhD students.First floor of Castle Dio will have accomodation for 1st year boys.</p>
-                    <p class="facilities__text">Note: The three wings for girls will be completely partitioned from the rest of the hostel.</p>
+                    <p class="facilities__text">Staying in campus is fun because of hostel and the environment that it offers. We have two hostels, Castle Ena and Castle Dio. Second, Third and Fourth year boys resides in Castle Ena. All the girls will be residing on ground floor of Castle Dio. First floor of Castle Dio will have accomodation for 1st year boys.</p>
+                    <p class="facilities__text">Note: Wings of the girls hostel will be completely partitioned from the rest of the hostel.</p>
                 </div>
 
                 <div class="facilities">
                     <h3 class="heading-tertiary">Hostels Capacity</h3>
-                    <p class="facilities__text">In Castle Ena the total capacity is of  270 and in Castle Dio the total capacity is 260.</p>
+                    <p class="facilities__text">In Castle Ena the total capacity is of around 300 and in Castle Dio the total capacity is 200.</p>
                 </div>
 
                 <div class="facilities">
                     <h3 class="heading-tertiary">Types of Rooms</h3>
 
-                    <p class="facilities__text">We have 2 sharing, 3 sharing and 4 sharing rooms and in newly constructed porta cabins we can accommodate even 5 students on sharing basis.</p>
+                    <p class="facilities__text">We have 2 sharing, 3 sharing and 4 sharing rooms in Castle Ena and for the fresher boys, they will be given 3 sharing rooms and 4 sharing rooms for fresher girls, there is still plenty of space left in the rooms.</p>
                 </div>
 
                 <div class="facilities">
@@ -91,15 +91,15 @@
 
                     <ul class="info__list">
                         <li class="info__item">Every student gets a bed, a fan, an almirah, a table and a chair in his room.</li>
-                        <li class="info__item">Toilets are commonly shared with the wing mates.</li>
-                        <li class="info__item">Two fully automated washing machines are allotted per wing.</li>
+                        <li class="info__item">Toilets are commonly shared with the wing mates and are cleaned twice a day.</li>
+                        <li class="info__item">Fully automated washing machines are kept in the laundry room for saving time and efforts of the students.</li>
                         <li class="info__item">Recreation cum TV room is there in the hostels for entertainment purpose.</li>
                         <li class="info__item">For the music lovers, there is a music room equipped with a drum set, congo set, keyboard, guitar and some other instruments.</li>
                         <li class="info__item">A dance room completely equipped with mirrored walls is set up for tapping your feet. And yes, if you love those drops, then there are bass speakers for you to bounce on.</li>
                         <li class="info__item">Both the hostels have indoor badminton courts.</li>
                         <li class="info__item">A snooker table and other indoor games are also provided.</li>
                         <li class="info__item">A Table Tennis table is also there for "ping-pong" lovers.</li>
-                        <li class="info__item">Ducting has been provided in hostels.</li>
+                        <li class="info__item">Air Cooling Ducts are there in each wing in the hostels to keep the rooms cool during summer.</li>
                     </ul>
 
                 </div>
@@ -112,7 +112,7 @@
             <div class="container">
                 <h2 class="heading-secondary">Network and Connectivity</h2>
                 <div class="network">
-                    <p class="network__text">Being an IIT it is needless to say that we have an excellent internet connectivity. The <span>NKN (National Knowledge Network)</span> program is the Internet service provider for the institute and supports network speeds of up to 1 GB/s. Although in the elementary stage, the NKN network is useful as it provides connectivity to other institutes, has resources like video lectures, seminars etc. Each student has access to the network through the LAN ports provided in the hostel rooms as well as Wi-Fi (each student is allotted a unique ID-Password for accessing). We also have a DC++ culture in the hostel (Google it and you will learn that DC++ is the life line of IIT hostels). It is a really productive file sharing system with a host server and various other clients linked to it. It comes in handy to share large files, academic softwares and recreational stuff (like movies, games, TV series). Students are encouraged to avail the benefits of the system in the hostel. Apart from the above, all students have access to a common file storage system. Students can use it as a drive to drop/retrieve/share files with peers.</p>
+                    <p class="network__text">Being an IIT it is needless to say that we have an excellent internet connectivity. The <span>NKN (National Knowledge Network)</span> program is the Internet service provider for the institute and supports network speeds of up to 1 GB/s. Although in the elementary stage, the NKN network is useful as it provides connectivity to other institutes, has resources like video lectures, seminars etc. Each student has access to the network through the LAN ports provided in the hostel rooms as well as Wi-Fi (each student is allotted a unique ID-Password for accessing). We also have a DC++ culture in the hostel (Google it and you will learn that DC++ is the life line of IIT hostels). It is a really productive file sharing system with a host server and various other clients linked to it. It comes in handy to share large files, academic softwares and recreational stuff (like movies, games, TV series). Students are encouraged to avail the benefits of the system in the hostel. Apart from the above, all students have access to a common file storage system. Students can use it as a drive to drop/retrieve/share files with peers. </p>
                 </div>
             </div>
         </section>
@@ -123,7 +123,7 @@
             <div class="container">
                 <h2 class="heading-secondary">Mess Facilities</h2>
                 <div class="mess">
-                    <p class="mess__text">Currently the mess is running at Castle Ena Hostel but from new session another mess will also start functioning at Castle Dio Hostel.Mess also provide snacks at evening apart from breakfast, lunch and dinner. Both the hostels have mess canteens which are open till 1 am in the night. They serve Snacks, Drinks, Fresh Fruit Juices, Noodles, Ice-Creams etc.</p><br>
+                    <p class="mess__text">Currently there are two mess in the campus, one serving in each hostel, Mess provides snacks at evening apart from breakfast, lunch and dinner. Both the hostels have mess night canteens which are open till 3 am in the night. They serve Snacks, Drinks, Fresh Fruit Juices, Noodles, Ice-Creams etc.</p><br>
 
                     <div class="row">
                         <div class="col-1-of-2"><img src="img/life/mess-1.jpg" alt="Mess" class="mess__photo"></div>
@@ -150,7 +150,7 @@
             <div class="container">
                 <h2 class="heading-secondary">Transportation Facilities within Campus</h2>
                 <div class="transportation">
-                    <p class="transportation__text">The boys hostel is located at a distance of about 900m from the academic block. A wide road within the campus connects both. There are plenty of options to ply between these two: </p>
+                    <p class="transportation__text">The Castle Ena boys hostel is located at a distance of about 900m from the academic block. A wide road within the campus connects both. There are plenty of options to ply between these two: </p>
                 </div>
 
                 <div class="transportation">
