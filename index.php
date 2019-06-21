@@ -262,7 +262,7 @@
                             <i class="fab fa-facebook-f dev__profile--icon"></i>
                         </a>
                         <div class="dev__phone">
-                            <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 9298100490
+                            &nbsp;
                         </div>
                     </div>
 
