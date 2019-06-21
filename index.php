@@ -166,9 +166,9 @@
                                 <a href="https://www.facebook.com/shreyam.chandra.9" class="dev__profile">
                                     <i class="fab fa-facebook-f dev__profile--icon"></i>
                                 </a>
-                                <div class="dev__phone">
+                                <!-- <div class="dev__phone">
                                     <i class="fas fa-phone dev__phone--icon"></i>&nbsp; +91 &dash; 7470448887
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
