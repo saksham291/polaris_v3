@@ -131,6 +131,20 @@
                     </div>
                 </div>
 
+                <div class="line-break"></div>
+
+                <div class="scitech">
+                    <h3 class="heading-tertiary">Institute Innovation Council (IIC)</h3>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>President:</span> Prof. P. D. Srivastava</p><br>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Convener:</span> Dr. Sanjib Banerjee</p><br>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Rachuri Sri Pramodh</p><br>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> IIC of IIT Bhilai has laid a platform to all the students to exhibit the gained knowledge and talent from courses and technical clubs. It helped to show the capabilities of our students to other HEIs when a team from IIT Bhilai competed with other teams and won in SIH-2019.</p><br>
+
+                    <div class="row">
+                        <div class="col-2-of-2"><img src="img/life/iic.JPG" alt="IIC" class="scitech__photo"></div>
+
+                    </div>
+                </div>
             </div>
 
         </section>

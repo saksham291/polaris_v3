@@ -77,7 +77,7 @@
 
                 <div class="facilities">
                     <h3 class="heading-tertiary">Hostels Capacity</h3>
-                    <p class="facilities__text">In Castle Ena the total capacity is of around 300 and in Castle Dio the total capacity is 200.</p>
+                    <p class="facilities__text">In Castle Ena the total capacity is of 302 and in Castle Dio the total capacity is 258.</p>
                 </div>
 
                 <div class="facilities">
