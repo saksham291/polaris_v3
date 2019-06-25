@@ -130,7 +130,7 @@
                 <div class="cultural">
                     <h3 class="heading-tertiary">Quizzing Club</h3>
                     <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinators:</span> Pothukuchi Siddhartha</p><br>
-                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> In our daily pursuit to achieve professional excellence we often neglect certain aspects of life. Music is one of them. It is our constant endeavour to spread awareness and induce a diverse music culture around us, encourage students to take up instruments. Giving opportunities to perform in front of a crowd. Swara as a club and band has performed at college festivals like Colossus(HNLU Naya Raipur), Armageddon(IIM Raipur), and at InterIIT Cultural Meet 2018.</p><br>
+                    <p class="cultural__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Description:</span> Interested in Quizzes regarding politics, world, sports, bollywood, etc. this is the club for you. Quizzing Club organizes regular quiz competitions and workhops to keep you updated with the current affairs and also to motivate you regarding your awareness towards current affairs. The primary goal of this club is to participate and represent IIT Bhilai in Quizzing Competiton at InterIIT Cultural Meet 2019 </p><br>
                 </div>
                 <div class="line-break"></div>
 
