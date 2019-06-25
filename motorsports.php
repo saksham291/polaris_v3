@@ -34,44 +34,46 @@
       require_once('header.php');
       ?>
 
-        <header class="header header__outreach">
+        <header class="header header__motorsports">
             <div class="container">
                 <div class="header__hero-box">
                     <h1 class="heading-primary">Motorsports</h1>
-                    <p class="heading-subtitle">Find your true talent....</p>
+                    <p class="heading-subtitle">Race Beyond the Horizon</p>
                 </div>
             </div>
         </header>
 
-        <!-- <section class="section">
+        <section class="section">
             <div class="container">
-                <h2 class="heading-secondary">Outreach Clubs</h2>
+                <h2 class="heading-secondary">Motorsports</h2>
                 <div class="clubs">
-                    <p class="clubs__text">We all, as a part of an elite league of institutes, aspire to work at the frontiers of human knowledge, innovate technology, initiate revolutions in science and propel national development to new heights. But often in such a competitive environment, work is stressed to the point of mania and this is when comes in the need of recreation. Rediscover your hobbies and explore new ones with Clubs at IIT Bhilai. Mind you there is absolutely no bound on anyone’s interest which also means that there is no bound on how many clubs you can be in – it is all up to you. Currently the following clubs are functional and conduct their respective activities at a regular basis:</p>
+                  <h3 class="heading-tertiary">Faculty Advisor - Dr. Soumya Gangopadhyay<br>Additional Faculty Advisor - Dr. Pravesh Chandra Shukla</h3>
+                  <h3 class="heading-tertiary">Team Captian - Ishaan Shrivastava</h3>
+                  <h3 class="heading-tertiary">Vice Captian - Sajal Saini</h3><br>
+
+                    <p class="clubs__text">IIT Bhilai Motorsports is a student team as a part of Motorsports Club from Indian Institute of Technology Bhilai. The Club being established in 2017, consists of 60+ members targeting to design and fabricate ATV to compete in national level all terrain vehicle events.
+
+                                            IIT Bhilai Motorsports made its debut at Enduro Student India (ESI) 2019, being the only 3rd gen IIT to participate in this competition. The team successfully cleared technical inspections based on design, engine check and brake check test in static events. In dynamics, the team actively participated in all the events - DirtX, Sprint, Acceleration & Manoeuvrability as well as Endurance race.
+
+                                            A team of 17 members represented IIT Bhilai Motorsports at Pune in the competition along with more than 70 other teams.<br><br></p>
                 </div>
-
-                <div class="outreach">
-                    <h3 class="heading-tertiary">Inside, News and Media Club</h3>
-                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Ankit Yadav</p><br>
-                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> "Inside" is the student media body of IIT Bhilai. We are a team of dedicated individuals with a zeal for writing and passion for developing media skills. The power of professional media has revolutionized the way things shape up these days around the globe. Inspired by the fraternity of journalists and showmen, we at IIT Bhilai aim to set up a student community committed towards providing an effective forum for communication within the Institute.</p><br>
-
-                    <p class="outreach__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>What's our work?</span></p>
-
-                    <ul class="info__list">
-                        <li class="info__item">Maintenance of the Intra-College Newsletter which features all the happenings in and around the Institution.</li>
-                        <li class="info__item">Handling of Institute’s Social Media profiles in collaboration with the administrative wing of IIT Bhilai.</li>
-                        <li class="info__item">Content Development of websites related to the Institute.</li>
-                        <li class="info__item">Organizing discussions and interviews with dignitaries who visit the Institution.</li>
-                        <li class="info__item">Setting up of and conducting student polls on various matters.</li>
-                        <li class="info__item">Promoting and Publishing various media related to the different spheres of the Institute.</li>
-                        <li class="info__item">Acting as a voice of the Student Community.</li>
-                    </ul>
+                <div class="row">
+                    <div class="col-1-of-2"><img src="img/life/motorsports-1.JPG" alt="Epsilon" class="scitech__photo"></div>
+                    <div class="col-1-of-2"><img src="img/life/motorsports-2.JPG" alt="Epsilon" class="scitech__photo"></div>
+                </div>
+                <div class="row">
+                    <div class="col-1-of-2"><img src="img/life/motorsports-3.jpg" alt="Epsilon" class="scitech__photo"></div>
+                    <div class="col-1-of-2"><img src="img/life/motorsports-4.JPG" alt="Epsilon" class="scitech__photo"></div>
+                </div>
+                <div class="row">
+                    <div class="col-1-of-2"><img src="img/life/motorsports-5.JPG" alt="Epsilon" class="scitech__photo"></div>
+                    <div class="col-1-of-2"><img src="img/life/motorsports-6.jpg" alt="Epsilon" class="scitech__photo"></div>
                 </div>
 
 
             </div>
 
-        </section> -->
+        </section>
 
         <?php
         require_once('footer.php');

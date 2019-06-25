@@ -72,7 +72,16 @@
                 <div class="scitech">
                     <h3 class="heading-tertiary">The Space Exploration Society (SES)</h3>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Abhishek Shingane</p><br>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> SES is an astronomical and aeromodelling society that seeks to provide a platform for conducting activities in the fields of observational astronomy, theoretical astrophysics, and aerospace engineering. With recently procured high power telescopes, members can gaze into the void of space. The Aerospace section will be designing its first low altitude plane in upcoming semester. SES also plans to participate in <a href="http://nssc.in/home/">National Student Space Challenge 2019</a>. </p>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> SES is an astronomical and aeromodelling society that seeks to provide a platform for conducting activities in the fields of observational astronomy, theoretical astrophysics, and aerospace engineering. All the members are really passionate about physics related to Black Holes, Dark Energy, Effects of gravity on space time. The members are highly interactive on such topics and you will definitely enjoy the conversation if you love astrophysics.</p><br>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Activities planned for upcoming semester:</span></p>
+
+                    <ul class="info__list">
+                        <li class="info__item">STAR GAZING: With recently procured high power telescopes, members can gaze into the void of space.</li>
+                        <li class="info__item">The Aerospace section will be designing its first low altitude plane in upcoming semester.</li>
+                        <li class="info__item">SES also plans to participate in National Student Space Challenge 2019.</li>
+                        <li class="info__item">Regular binge watching sessions at night of PBS Space Time and related youtube channel.</li>
+                        <li class="info__item">Screening of Cosmos Space Time Odyssey.</li>
+                    </ul>
                 </div>
 
                 <div class="line-break"></div>
@@ -80,8 +89,7 @@
                 <div class="scitech">
                     <h3 class="heading-tertiary">Electromos</h3>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Ayushneel Titus</p><br>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> The Epsilon Club, a club under the Science & Technology Clubs, IIT Bhilai, is a prodigious & one of the most appreciated feature of this Institute. The idea of providing a common platform for students interested in Robotics is what makes it different from other clubs. The main motive of the club is to provide a really strong platform for bringing his/her ideas on Robotics into         reality. Armed with the support of the institute, the knowledge pool and bubbling enthusiasm of its members, robotics club aims to provide the opportunity and materials to harness the creativity of the students.
-                      The Club provides all the necessary assistance for the same. Alongwith, there are several other club activities discussed below. With the motto of “IMAGINE, INVENT, INSPIRE” the club came into establishment in April 2017. Our esteemed group shares a common passion for the field of Robotics.
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> Electromos (Electronics Club) is the most visible club in IIT Bhilai. All the electronics components and chips are issued to the students by the Electronics Club. The best part of the club is students converting their innovative ideas into real-life projects. The Electronics Club motivates students to build practically what they read in theory. The club makes it possible to get hands-on experience in building new machines and gadgets using electronic components for any student. The club provides support, guidance and means to help students realise their conceptual designs and ideas to working real-life machines. The club also organises many activities like seminars, demonstrations, exhibitions and hackathon.
                     </p><br>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Objectives and Ideas:</span></p>
 
@@ -98,7 +106,8 @@
                     <ul class="info__list">
                         <li class="info__item">Orientation Session.</li>
                         <li class="info__item">Workshop for school students.</li>
-                        <li class="info__item">Real Steel and Ro-Boat in Meraz.</li>
+                        <li class="info__item">Real Steel, Tech Riddles, Areana Haste and Ro-Boat in Meraz.</li>
+                        <li class="info__item">Organised Hackatronize - The Electronics Hackathon</li>
                         <li class="info__item">TCTD Challenge.</li>
                         <li class="info__item">Wireless communication Workshop.</li>
                         <li class="info__item">Workshop on Gesture Controlled Robot.</li>
@@ -106,7 +115,7 @@
 
                     <div class="row">
                         <div class="col-1-of-2"><img src="img/life/electromos-1.jpg" alt="Electromos" class="scitech__photo"></div>
-                        <div class="col-1-of-2"><img src="img/life/electromos-2.jpg" alt="Electromos" class="scitech__photo"></div>
+                        <div class="col-1-of-2"><img src="img/life/electromos-2.jpeg" alt="Electromos" class="scitech__photo"></div>
                     </div>
                 </div>
 
@@ -131,14 +140,47 @@
                     </div>
                 </div>
 
-                <div class="line-break"></div>
 
+
+                <div class="line-break"></div><br><br><br><br>
+            </div>
+
+            <div class="container">
+                <h2 class="heading-secondary">Institute Innovation Council (IIC)</h2>
                 <div class="scitech">
-                    <h3 class="heading-tertiary">Institute Innovation Council (IIC)</h3>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>President:</span> Prof. P. D. Srivastava</p><br>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Convener:</span> Dr. Sanjib Banerjee</p><br>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Rachuri Sri Pramodh</p><br>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> IIC of IIT Bhilai has laid a platform to all the students to exhibit the gained knowledge and talent from courses and technical clubs. It helped to show the capabilities of our students to other HEIs when a team from IIT Bhilai competed with other teams and won in SIH-2019.</p><br>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span>Ministry of Human Resource Development (MHRD), Govt. of India has established ‘MHRD’s Innovation Cell (MIC)’ to systematically foster the culture of Innovation amongst all Higher Education Institutions (HEIs). The primary mandate of MIC is to encourage, inspire and nurture young students by supporting them to work with new ideas and transform them into prototypes while they are informative years.
+                    MIC has envisioned encouraging creation of ‘Institution’s Innovation Council (IICs)’ across selected HEIs. A network of these IICs has been established to promote innovation in the Institution through multitudinous modes leading to an innovation promotion eco-system in the campuses.
+                  </p><br>
+                  <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Major focus of IIC:</span></p>
+
+                  <ul class="info__list">
+                      <li class="info__item">To create a vibrant local innovation ecosystem.</li>
+                      <li class="info__item">Start-up supporting Mechanism in HEIs.</li>
+                      <li class="info__item">Prepare institute for Atal Ranking of Institutions on Innovation Achievements Framework.</li>
+                      <li class="info__item">Establish Function Ecosystem for Scouting Ideas and Pre-incubation of Ideas.</li>
+                      <li class="info__item">Develop better Cognitive Ability for Technology Students.</li>
+                  </ul>
+
+                  <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Function of IIC:</span></p>
+
+                  <ul class="info__list">
+                      <li class="info__item">To conduct various innovation and entrepreneurship-related activities prescribed by Central MIC in time bound fashion.</li>
+                      <li class="info__item">Identify and reward innovations and share success stories.</li>
+                      <li class="info__item">Organize periodic workshops/ seminars/ interactions with entrepreneurs, investors, professionals and create a mentor pool for student innovators.</li>
+                      <li class="info__item">Network with peers and national entrepreneurship development organizations.</li>
+                      <li class="info__item">Create an Institution’s Innovation portal to highlight innovative projects carried out by institution’s faculty and students.</li>
+                      <li class="info__item">Organize Hackathons, idea competition, mini-challenges etc. with the involvement of industries.</li>
+                  </ul>
+                  <p class="scitech__text">
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>IIC of IIT Bhilai has hosted a workshops on:</span></p>
+                  <ul class="info__list">
+                      <li class="info__item">Cognitive Skills Design Thinking and Critical thinking.</li>
+                      <li class="info__item">Intellectual property rights.</li>
+                  </ul><p class="scitech__text">
+Students also participated in Smart India Hackathon 2019, Smart Bihar Submit, India-Japan Ideathon. <br><br> </p>
 
                     <div class="row">
                         <div class="col-2-of-2"><img src="img/life/iic.JPG" alt="IIC" class="scitech__photo"></div>
@@ -146,7 +188,6 @@
                     </div>
                 </div>
             </div>
-
         </section>
 
 

@@ -98,20 +98,20 @@
 
                     <div class="row">
                         <div class="restaurants__box">
-
+                          <div class="col-1-of-2">
+                              <div class="heading-tertiary">Tech Cafe</div>
+                              <div class="restaurants__description">The cafe is located inside the campus and provides variety of snacks and fast-foods such as Samosa, Pasta, Maggi among others. <br>See on <a href="https://goo.gl/maps/iP6dv8zZGom">google maps &rarr;</a> </div>
+                          </div>
                             <div class="col-1-of-2">
-                                <div class="heading-tertiary">Hotel Shirin</div>
-                                <div class="restaurants__description">Hotel Shirin is proper restaurant which offers both Veg as well as Non-Veg cuisines. <br>See on <a href="https://goo.gl/maps/qEZ2m5MHcA82">google maps &rarr;</a> </div>
+                                <div class="heading-tertiary">GEC Cafe</div>
+                                <div class="restaurants__description">GEC Cafe is located inside the campus and offers fast-food like maggi, fried rice, chowmein. <br>See on <a href="https://goo.gl/maps/jk5HiDraeBYL2uGA8">google maps &rarr;</a> </div>
                             </div>
 
                             <!-- <div class="col-1-of-2">
                                 <div class="heading-tertiary">The Hangout</div>
                                 <div class="restaurants__description">The Hangout, a pure Veg. eatery offers fast-foods, mainly Burgers, Pizzas, Noodles, Hotdogs etc. <br>See on <a href="	https://goo.gl/maps/h4bTtbCxrbH2">google maps &rarr;</a> </div>
                             </div> -->
-                            <div class="col-1-of-2">
-                                <div class="heading-tertiary">Tech Cafe</div>
-                                <div class="restaurants__description">The cafe is located inside the campus and provides variety of snacks and fast-foods such as Samosa, Pasta, Maggi among others. <br>See on <a href="https://goo.gl/maps/iP6dv8zZGom">google maps &rarr;</a> </div>
-                            </div>
+
                         </div>
                     </div>
 
@@ -120,11 +120,11 @@
 
                             <div class="col-1-of-2">
                                 <div class="heading-tertiary">Khao Piyo</div>
-                                <div class="restaurants__description">Located just outside the campus, it provides both veg and non-veg snacks as well as beverages.                                     <br>See on <a href="https://goo.gl/maps/brMLsgPq7QE2">google maps &rarr;</a> </div>
+                                <div class="restaurants__description">Located just outside the campus, it provides both veg and non-veg snacks as well as beverages. <br>See on <a href="https://goo.gl/maps/brMLsgPq7QE2">google maps &rarr;</a> </div>
                             </div>
                             <div class="col-1-of-2">
-                                <div class="heading-tertiary">Hungry Birds</div>
-                                <div class="restaurants__description">Recently opened, Hungry Birds is a restaurant which provides veg as well as non-veg cuisines.</div>
+                                <div class="heading-tertiary">Food Mart</div>
+                                <div class="restaurants__description">Recently opened, Food Mart is a restaurant which provides veg as well as non-veg cuisines. <br>See on <a href="https://goo.gl/maps/peh8wNHRiL6VwJ7f9">google maps &rarr;</a> </div>
                             </div>
                         </div>
                     </div>

@@ -39,7 +39,7 @@
                         <a href="outreach.php" class="dropdown-link">Outreach Clubs</a>
                         <a href="sports.php" class="dropdown-link">Sports</a>
                         <a href="meraz.php" class="dropdown-link">Meraz</a>
-                        <!-- <a href="gallery.php" class="dropdown-link">Gallery</a> -->
+                        <a href="motorsports.php" class="dropdown-link">Motorsports</a>
                     </div>
                 </li>
             </ul>
