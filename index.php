@@ -58,7 +58,17 @@
                 </div>
                 <div class="modal-body">
                     <ul>
-                        <li>The <a href="mentors.php">Mentors list</a> for the session 2019-20 has been updated.<br>Dear Students, For any queries regarding IIT Bhilai and 2019-20 admissions please feel free to contact any of the mentors.</li>
+                        <li>All the new students are required to be present in the IIT Bhilai - GEC Campus, Raipur at 7:30am on 23rd July 2019.</li>
+                        <br/>
+                        <li>The <a href="mentors.php">Mentors list</a> for the session 2019-20 has been updated.<br>For any queries regarding IIT Bhilai and 2019-20 admissions please feel free to contact any of the mentors.</li><br>
+                        <li>All the students who are going to join IIT Bhilai this year are requested to go through the following link before coming to the campus for final registration. <a href="documents.php" target="_blank" class="notification">Take me there!</a></li>
+                        <br/>
+                        <li>You can pay the first semester fee online. No cash payment option will be available at the institute on 23rd July. For more details, <a href="documents.php" class="notification">click here!</a><br><strong>The deadline for fee payment is 22nd July for students not availing education loan.</strong></li><br/>
+                        <!-- <li>You can pay the first semester fee online <a href="https://www.onlinesbi.com/prelogin/icollecthome.htm?corpID=646425" target="_blank" class="notification">here.</a> <strong>The deadline for fee payment is 23 July.</strong></li><br/> -->
+                        <!-- <li>Those students who wants to avail loan from PNB, <a href="documents.html" class="notification">click here!</a></li> -->
+                        <li>Those students who wants to avail education loan from bank, Details of bank and respective forms will be uploaded soon <a href="documents.php" class="notification">here!</a></li>
+
+
                     </ul>
                 </div>
             </div>
