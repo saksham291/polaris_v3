@@ -58,13 +58,13 @@
                 <div class="documents">
 
                     <h2 class="heading-secondary"><span>Availing Loan Facility</span></h2>
-                    <p class="fee__text">Please find the checklist of documents required for issuing the loan at Punjab National Bank (PNB).</p>
+                    <p class="fee__text">The details and documents required for availing education loan will be uploaded here.</p>
                     <div class="bank">
                         <ul class="bank__list">
-                            <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Checklist of required documents for availing loan. <a href="Offer Cum Check List.docx" download>Click Here!</a></li>
+                            <!-- <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Checklist of required documents for availing loan. <a href="Offer Cum Check List.docx" download>Click Here!</a></li>
                             <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Account Opening Form. <a href="AOF - Saving.pdf" download>Click Here!</a></li>
                             <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Customer Master Form / Know Your Customer / CKYCR Form for Individuals - CUMM. <a href="CUMM.pdf" download>Click Here!</a></li>
-                            <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Loan Application. <a href="Loan Application.pdf" download>Click Here!</a></li>
+                            <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Loan Application. <a href="Loan Application.pdf" download>Click Here!</a></li> -->
                         </ul>
                     </div>
                 </div>
