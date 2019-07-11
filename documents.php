@@ -80,7 +80,7 @@
                     <p class="fee__text">No cash payment option will be available at the institute on 23rd July. As enquired for payment mode, following options are made available:</p>
                             <br/>
                             <ul class="sublist">
-                                <li><strong>Option 1 &dash;</strong> SBI i-Collect Net banking facility. <a href="https://www.onlinesbi.com/sbicollect/icollecthome.htm" target="_blank">Click Here!</a><br>For procedure of payment through State Bank i-Collect.<a href="Payment through SBI i collect.pdf" target="_blank"> Click Here!</a></li>
+                                <li><strong>Option 1 &dash;</strong> SBI Collect Net banking facility. <a href="https://www.onlinesbi.com/sbicollect/icollecthome.htm" target="_blank">Click Here!</a><br>For procedure of payment through SBI Collect.<a href="Payment through SBI i collect.pdf" target="_blank"> Click Here!</a></li>
 
                                 <li><strong>Option 2 &dash;</strong> Offline mode to pay in SBI (any branch): <br/>
                                 A student can exercise SBI Branch option published in SBI Collect payment options page (at lower left corner) and can go to any SBI branch for paying the fee amount either in cash or otherwise acceptable by the bank.</li>
