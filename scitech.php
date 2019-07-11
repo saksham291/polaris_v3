@@ -106,11 +106,11 @@
                     <ul class="info__list">
                         <li class="info__item">Orientation Session.</li>
                         <li class="info__item">Workshop for school students.</li>
-                        <li class="info__item">Real Steel, Tech Riddles, Areana Haste and Ro-Boat in Meraz.</li>
+                        <li class="info__item">Tech Riddles and Areana Haste in Meraz.</li>
                         <li class="info__item">Organised Hackatronize - The Electronics Hackathon</li>
-                        <li class="info__item">TCTD Challenge.</li>
+
                         <li class="info__item">Wireless communication Workshop.</li>
-                        <li class="info__item">Workshop on Gesture Controlled Robot.</li>
+
                     </ul>
 
                     <div class="row">
@@ -124,7 +124,7 @@
                 <div class="scitech">
                     <h3 class="heading-tertiary">The Epsilon Club</h3>
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Co-ordinator:</span> Ketha Jaya Sandeep</p><br>
-                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> Indian Institute Of Technology Bhilai has emerged as one of the most fastest growing institutes in India. Being started in 2016, it gives a strong platform for the students who have great talent, skills &amp; have achieved excellence in the field of academics. The Epsilon Club, a club under the Science &amp; Technology Clubs, IIT Bhilai, is a prodigious &amp; one of the most appreciated feature of this Institute. The idea of providing a common platform for students interested in either Robotics, or Basic Sciences, or both, is what makes it different from other clubs. The main motive of the club is to provide a really strong platform for bringing his/her ideas on Robotics or Basic Sciences, into reality. The Club provides all the necessary assistance for the same. Alongwith, there are several other club activities discussed below. With the motto of “IMAGINE, INVENT, INSPIRE” the club came into establishment in April 2017. Our esteemed group shares a common passion for the field of Robotics &amp; for the field of Basic Sciences.</p><br>
+                    <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>About:</span> Indian Institute Of Technology Bhilai has emerged as one of the most fastest growing institutes in India. Being started in 2016, it gives a strong platform for the students who have great talent, skills &amp; have achieved excellence in the field of academics. The Epsilon Club, a club under the Science &amp; Technology Clubs, IIT Bhilai, is a prodigious &amp; one of the most appreciated feature of this Institute. The idea of providing a common platform for students interested in Robotics is what makes it different from other clubs. The main motive of the club is to provide a really strong platform for bringing his/her ideas on Robotics or Basic Sciences, into reality. The Club provides all the necessary assistance for the same. Alongwith, there are several other club activities discussed below. With the motto of “IMAGINE, INVENT, INSPIRE” the club came into establishment in April 2017. Our esteemed group shares a common passion for the field of Robotics &amp; for the field of Basic Sciences.</p><br>
 
                     <p class="scitech__text"><i class="fas fa-arrow-circle-right"></i>&nbsp;<span>Activities:</span></p>
 
@@ -133,6 +133,9 @@
                         <li class="info__item">Robo Soccer Competition</li>
                         <li class="info__item">Techmaitry</li>
                         <li class="info__item">Robo Carnival 2018</li>
+                        <li class="info__item">Real Steel and Ro-Boat in Meraz.</li>
+                        <li class="info__item">TCTD Challenge.</li>
+                        <li class="info__item">Workshop on Gesture Controlled Robot.</li>
                     </ul>
                     <div class="row">
                         <div class="col-1-of-2"><img src="img/life/epsilon-1.jpeg" alt="Epsilon" class="scitech__photo"></div>
