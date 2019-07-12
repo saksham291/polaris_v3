@@ -66,7 +66,7 @@
                         <li>You can pay the first semester fee online. No cash payment option will be available at the institute on 23rd July. For more details, <a href="documents.php" class="notification">click here!</a><br><strong>The deadline for fee payment is 22nd July for students not availing education loan.</strong></li><br/>
                         <!-- <li>You can pay the first semester fee online <a href="https://www.onlinesbi.com/prelogin/icollecthome.htm?corpID=646425" target="_blank" class="notification">here.</a> <strong>The deadline for fee payment is 23 July.</strong></li><br/> -->
                         <!-- <li>Those students who wants to avail loan from PNB, <a href="documents.html" class="notification">click here!</a></li> -->
-                        <li>Those students who wants to avail education loan from bank, Details of bank and respective forms will be uploaded soon <a href="documents.php" class="notification">here!</a></li>
+                        <li>Students who wants to avail education loan from bank, Details of bank and respective forms are uploaded <a href="documents.php" class="notification">here!</a></li>
 
 
                     </ul>

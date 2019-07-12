@@ -58,12 +58,18 @@
                 <div class="documents">
 
                     <h2 class="heading-secondary"><span>Availing Loan Facility</span></h2>
-                    <p class="fee__text">The details and documents required for availing education loan will be uploaded here.</p>
+                    <p class="fee__text">The details and documents required for availing education loan are given as follows.<br>Punjab National Bank will sanction the education loan to the students.</p>
+                    <div class="fee">
+                    <ul class="sublist">
+                        <li>Student needs to fill the loan application form and send it to PNB and bring the required documents on 23rd July.</li>
+                        <li>PNB loan scheme documents contain the terms and conditions of the loan.<br/></li>
+                        </ul>
+                    </div>
                     <div class="bank">
                         <ul class="bank__list">
-                            <!-- <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Checklist of required documents for availing loan. <a href="Offer Cum Check List.docx" download>Click Here!</a></li>
-                            <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Account Opening Form. <a href="AOF - Saving.pdf" download>Click Here!</a></li>
-                            <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Customer Master Form / Know Your Customer / CKYCR Form for Individuals - CUMM. <a href="CUMM.pdf" download>Click Here!</a></li>
+                            <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Checklist of required documents for availing loan and Loan Scheme Details. <a href="PNB LOAN Scheme for Students of IIT Bhilai.pdf" download>Click Here!</a></li>
+                            <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Loan Application Form. <a href="PNB Loan Application Form.pdf" download>Click Here!</a></li>
+                            <!-- <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Customer Master Form / Know Your Customer / CKYCR Form for Individuals - CUMM. <a href="CUMM.pdf" download>Click Here!</a></li>
                             <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Loan Application. <a href="Loan Application.pdf" download>Click Here!</a></li> -->
                         </ul>
                     </div>
@@ -78,13 +84,14 @@
                 <div class="fee">
                     <h2 class="heading-secondary"><span>Regarding Fee Payment</span></h2>
                     <p class="fee__text">Fee Structure (Btech/Mtech/PhD) - <a href="Fee_structure.pdf" target="_blank">Click Here!</a></p><br>
+                    <p class="fee__text">Generate the Fee Payment Challan through SBI Collect Payment Page. <a href="https://www.onlinesbi.com/sbicollect/icollecthome.htm" target="_blank">Click Here!</a><br>For procedure of payment through SBI Collect.<a href="Payment through SBI i collect.pdf" target="_blank"> Click Here!</a></p>
                     <p class="fee__text">No cash payment option will be available at the institute on 23rd July. As enquired for payment mode, following options are made available:</p>
                             <br/>
                             <ul class="sublist">
-                                <li><strong>Option 1 &dash;</strong> SBI Collect Net banking facility. <a href="https://www.onlinesbi.com/sbicollect/icollecthome.htm" target="_blank">Click Here!</a><br>For procedure of payment through SBI Collect.<a href="Payment through SBI i collect.pdf" target="_blank"> Click Here!</a></li>
+                                <li><strong>Option 1 &dash;</strong> By choosing SBI Collect Net banking facility option published in SBI Collect payment options page. </li>
 
                                 <li><strong>Option 2 &dash;</strong> Offline mode to pay in SBI (any branch): <br/>
-                                A student can exercise SBI Branch option published in SBI Collect payment options page (at lower left corner) and can go to any SBI branch for paying the fee amount either in cash or otherwise acceptable by the bank.</li>
+                                A student can choose SBI Branch option published in SBI Collect payment options page (at lower left corner) and can go to any SBI branch for paying the fee amount either in cash or otherwise acceptable by the bank.</li>
                                 <li><strong>Option 3 &dash;</strong> Banking mode other than SBI Collect: <br/>
                                 Institute accepts Demand Draft/Bankers Cheque favouring "Director IIT Bhilai" payable at Raipur (Chhattisgarh).</li>
                             </ul>
