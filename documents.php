@@ -67,8 +67,8 @@
                     </div>
                     <div class="bank">
                         <ul class="bank__list">
-                            <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Checklist of required documents for availing loan and Loan Scheme Details. <a href="PNB LOAN Scheme for Students of IIT Bhilai.pdf" download>Click Here!</a></li>
-                            <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Loan Application Form. <a href="PNB Loan Application Form.pdf" download>Click Here!</a></li>
+                            <li class="bank__item"><i class="fas fa-download"></i>&nbsp; List of required documents for availing loan and Loan Scheme Details. <a href="PNB LOAN Scheme for Students of IIT Bhilai.pdf" download>Click Here!</a></li>
+                            <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Checklist of required documents and Loan Application Form. <a href="PNB Loan Application Form.pdf" download>Click Here!</a></li>
                             <!-- <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Customer Master Form / Know Your Customer / CKYCR Form for Individuals - CUMM. <a href="CUMM.pdf" download>Click Here!</a></li>
                             <li class="bank__item"><i class="fas fa-download"></i>&nbsp; Loan Application. <a href="Loan Application.pdf" download>Click Here!</a></li> -->
                         </ul>
