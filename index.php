@@ -60,7 +60,7 @@
                     <ul>
                         <li>All the new students are required to be present in the IIT Bhilai - GEC Campus, Raipur at 7:30am on 23rd July 2019.</li>
                         <br/>
-                        <li>The <a href="mentors.php">Mentors list</a> for the session 2019-20 has been updated.<br>For any queries regarding IIT Bhilai and 2019-20 admissions please feel free to contact any of the mentors.</li><br>
+                        <li>For any queries regarding IIT Bhilai and 2019-20 admissions please feel free to contact any of the <a href="mentors.php" class="notification">Mentors.</a><br>Orientation Schedule - <a href="https://www.iitbhilai.ac.in/index.php?pid=orientation_2019" target="_blank" class="notification">Click Here!</a></li><br>
                         <li>All the students who are going to join IIT Bhilai this year are requested to go through the following link before coming to the campus for final registration. <a href="documents.php" target="_blank" class="notification">Take me there!</a></li>
                         <br/>
                         <li>You can pay the first semester fee online. No cash payment option will be available at the institute on 23rd July. For more details, <a href="documents.php" class="notification">click here!</a><br><strong>The deadline for fee payment is 22nd July for students not availing education loan.</strong></li><br/>
@@ -110,7 +110,7 @@
                 <div class="header__hero-box">
                     <h1 class="heading-primary">Student Mentorship Program</h1>
                     <p class="heading-subtitle">Of the Student, By the Student, For the Student</p>
-                    <a href="Brochure_2018_19.pdf" class="btn btn-download" download>Brochure 2018&nbsp; <i class="fas fa-download"></i></a><br/>
+                    <a href="IIT BHILAI Student Brochure 2019_2.pdf" class="btn btn-download" download>Brochure 2019&nbsp; <i class="fas fa-download"></i></a><br/>
                     <!-- <a href="#" class="btn btn-live" id="modalBtn">Live Updates &nbsp; <i class="fas fa-sync"></i></a> -->
                 </div>
             </div>
