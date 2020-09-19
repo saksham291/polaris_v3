@@ -1,6 +1,6 @@
 {
-  "name": "polaris_v2",
-  "version": "1.0.0",
+  "name": "polaris",
+  "version": "3.0.0",
   "description": "Landing Page for polaris ",
   "main": "index.js",
   "scripts": {
